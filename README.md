@@ -16,13 +16,13 @@
   - [Source localisation](#source-localisation)
   - [Synthetic seismograms](#synthetic-seismograms)
   - [Synthetic travel times, ray parameters and ray paths](#synthetic-travel-times-ray-parameters-and-ray-paths)
+  - [Tomography](#tomography)
   - [Visualisation](#visualisation)
 
 ## Array Seismology
 
 - [acoular](https://www.acoular.org) - Acoustic testing and source mapping software ![python](assets/python.png)
 - [beampower](https://github.com/ebeauce/beampower) - Beamforming (or backprojection) of seismic signal for event detection and location ![python](assets/python.png)
-- [BPMF](https://github.com/ebeauce/Seismic_BPMF) - Earthquake detection and location with GPU-accelerated processing ![python](assets/python.png)
 - [covseisnet](https://github.com/covseisnet/covseisnet) - array covariance matrix analysis ![python](assets/python.png)
 - [fast_beamforming](https://github.com/schipp/fast_beamforming) - Fast and efficient beamforming in Python ![python](assets/python.png)
 
@@ -74,7 +74,6 @@
 - [SeisMIC](https://github.com/PeterMakus/SeisMIC) - Seismological Monitoring using Interferometric Concepts ![python](assets/python.png)
 - [WMSAN](https://tomasetl.gricad-pages.univ-grenoble-alpes.fr/ww3-source-maps/) - Wave Model Sources of Ambient Noise ![python](assets/python.png)
 
-
 ## Source localisation
 
 - [acoular](https://www.acoular.org) - Acoustic testing and source mapping software ![python](assets/python.png)
@@ -86,9 +85,12 @@
 
 ## Synthetic seismograms
 
+- [AxiSEM](https://github.com/geodynamics/axisem) - Axially symmetric Spectral Element Method ![fortran](assets/fortran.png)
 - [Computer Programs in Seismology](https://github.com/rbherrmann/ComputerProgramsSeismology) - a package of programs for making synthetic seismograms and for the inversion of seismic data
 - [Fomosto (pyrocko)](https://pyrocko.org) - Calculate and manage Green’s function databases ![python](assets/python.png)
 - [instaseis](https://instaseis.net) - Instant Global Seismograms Based on a Broadband Waveform Database ![python](assets/python.png)
+- [Salvus](https://mondaic.com) - Waveform Simulations and Inversions
+- [SPECFEM](https://specfem.org) - A family of open-source spectral-element method software codes for computational seismology.
 
 ## Synthetic travel times, ray parameters and ray paths
 
@@ -97,8 +99,13 @@
 - [scikit-fmm](https://github.com/scikit-fmm/scikit-fmm) - Fast marching method for Python ![python](assets/python.png)
 - [pykonal](https://github.com/malcolmw/pykonal) - Fast Marching Method in Cartesian or spherical coordinates in 2 or 3 dimensions ![python](assets/python.png)
 
+## Tomography
+
+- [MSNoise-Tomo](https://github.com/ThomasLecocq/msnoise-tomo) - a plugin to the MSNoise framework for 2D tomography ![python](assets/python.png)
+
 ## Visualisation
 
-- [matplotlib](https://matplotlib.org) - Comprehensive library for creating static, animated, and interactive visualizations in Python ![python](assets/python.png)
+- [cartopy](https://scitools.org.uk/cartopy/docs/latest/) - Maps for matplotlib ![python](assets/python.png)
 - [cmcrameri](https://www.fabiocrameri.ch/colourmaps/) - Scientific colour maps
 - [cmocean](https://matplotlib.org/cmocean/) - Beautiful colormaps for oceanography
+- [matplotlib](https://matplotlib.org) - Comprehensive library for creating static, animated, and interactive visualizations in Python ![python](assets/python.png)
