@@ -1,6 +1,6 @@
 # Awesome Seismology
 
-An [awesome list](https://github.com/topics/awesome-list) for seismology. Tools and resources for seismologists.
+> A curated list of awesome seismology tools and resources.
 
 - [Awesome Seismology](#awesome-seismology)
   - [Array Seismology](#array-seismology)
