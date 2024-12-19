@@ -59,7 +59,7 @@ An [awesome list](https://github.com/topics/awesome-list) for seismology.
 
 - [MSNoise](http://www.msnoise.org) - Python package for monitoring using Ambient Seismic Noise ![python](assets/python.png)
 - [NoisePy](https://github.com/noisepy/NoisePy) - Fast and easy computation of ambient noise cross-correlation functions ![python](assets/python.png)
-- [Seis.jl](https://github.com/anowacki/Seis.jl) - Open, fast and flexible framework for analysing seismic data in Julia ![python](assets/julia.png)
+- [Seis.jl](https://github.com/anowacki/Seis.jl) - Open, fast and flexible framework for analysing seismic data in Julia ![julia](assets/julia.png)
 - [SeisMIC](https://github.com/PeterMakus/SeisMIC) - Seismological Monitoring using Interferometric Concepts ![python](assets/python.png)
 
 ## Source localisation
@@ -77,7 +77,7 @@ An [awesome list](https://github.com/topics/awesome-list) for seismology.
 
 ## Synthetic travel times, ray parameters and ray paths
 
-- [TauP](http://www.seis.sc.edu/taup/) - Seismic travel time calculator
+- [TauP](http://www.seis.sc.edu/taup/) - Seismic travel time calculator ![java](assets/java.png)
 - [Cake (pyrocko)]((https://pyrocko.org)) - 1D travel-time and ray-path computations ![python](assets/python.png)
 - [scikit-fmm](https://github.com/scikit-fmm/scikit-fmm) - Fast marching method for Python ![python](assets/python.png)
 - [pykonal](https://github.com/malcolmw/pykonal) - Fast Marching Method in Cartesian or spherical coordinates in 2 or 3 dimensions ![python](assets/python.png)
