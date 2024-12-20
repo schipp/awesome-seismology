@@ -9,14 +9,13 @@
   - [Educational resources](#educational-resources)
   - [Distributed acoustic sensing](#distributed-acoustic-sensing)
   - [Geodetics](#geodetics)
-  - [Imaging](#imaging)
   - [Interdisciplinary](#interdisciplinary)
   - [Machine learning](#machine-learning)
-  - [Receiver functions](#receiver-functions)
   - [Seismic data access](#seismic-data-access)
   - [Seismic data handling](#seismic-data-handling)
   - [Seismic interferometry \& ambient noise](#seismic-interferometry--ambient-noise)
   - [Source localisation](#source-localisation)
+  - [Structure imaging](#structure-imaging)
   - [Synthetic seismograms](#synthetic-seismograms)
   - [Synthetic travel times, ray parameters and ray paths](#synthetic-travel-times-ray-parameters-and-ray-paths)
   - [Visualisation](#visualisation)
@@ -62,10 +61,6 @@
 
 - [geokernels](https://github.com/sigmaterra/geokernels) - Fast geospatial distance and geodesic kernel computation ![python](assets/python.png)
 
-## Imaging
-
-- [MSNoise-Tomo](https://github.com/ThomasLecocq/msnoise-tomo) - a plugin to the MSNoise framework for 2D tomography ![python](assets/python.png)
-
 ## Interdisciplinary
 
 - [pyGIMLi](https://www.pygimli.org) - Multi-method modelling and inversion in geophysics ![python](assets/python.png)
@@ -74,10 +69,6 @@
 
 - [SeisBench](https://github.com/seisbench/seisbench) - Python toolbox for machine learning in seismology ![python](assets/python.png)
 - [PhaseNet](https://github.com/AI4EPS/PhaseNet) - A Deep-Neural-Network-Based Seismic Arrival Time Picking Method ![python](assets/python.png)
-
-## Receiver functions
-
-- [PyGLImER](https://github.com/PyGLImER/PyGLImER) - Workflow to create a global database for Ps and Sp receiver function imaging ![python](assets/python.png)
 
 ## Seismic data access
 
@@ -109,6 +100,11 @@
 - [fast_beamforming](https://github.com/schipp/fast_beamforming) - Fast and efficient beamforming in Python ![python](assets/python.png)
 - [HypoDD](https://www.ldeo.columbia.edu/~felixw/hypoDD.html) - Double-difference earthquake location algorithm
 - [NonLinLoc](https://github.com/alomax/NonLinLoc) - Non-Linear Location
+
+## Structure imaging
+
+- [MSNoise-Tomo](https://github.com/ThomasLecocq/msnoise-tomo) - a plugin to the MSNoise framework for 2D tomography ![python](assets/python.png)
+- [PyGLImER](https://github.com/PyGLImER/PyGLImER) - Workflow to create a global database for Ps and Sp receiver function imaging ![python](assets/python.png)
 
 ## Synthetic seismograms
 
