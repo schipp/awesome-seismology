@@ -4,13 +4,15 @@
 
 - [Awesome Seismology](#awesome-seismology)
   - [Array Seismology](#array-seismology)
-  - [Earthquake source mechanism](#earthquake-source-mechanism)
+  - [Earthquake bulletins/catalogues](#earthquake-bulletinscatalogues)
+  - [Earthquake analysis](#earthquake-analysis)
   - [Educational resources](#educational-resources)
   - [Distributed Acoustic Sensing](#distributed-acoustic-sensing)
   - [Geodetics](#geodetics)
   - [Interdisciplinary](#interdisciplinary)
   - [Machine Learning](#machine-learning)
   - [Receiver functions](#receiver-functions)
+  - [Seismic Data](#seismic-data)
   - [Seismic Data handling](#seismic-data-handling)
   - [Seismic Interferometry \& Ambient Noise](#seismic-interferometry--ambient-noise)
   - [Source localisation](#source-localisation)
@@ -22,15 +24,30 @@
 ## Array Seismology
 
 - [acoular](https://www.acoular.org) - Acoustic testing and source mapping software ![python](assets/python.png)
+- [B3AM](https://github.com/katrinloer/B3AM) / [B3Ampy](https://github.com/cl-finger/B3Ampy) - toolbox for easy and fast beamforming analysis of three-component array data ![matlab](assets/matlab.png)/![python](assets/python.png)
 - [beampower](https://github.com/ebeauce/beampower) - Beamforming (or backprojection) of seismic signal for event detection and location ![python](assets/python.png)
 - [covseisnet](https://github.com/covseisnet/covseisnet) - array covariance matrix analysis ![python](assets/python.png)
 - [fast_beamforming](https://github.com/schipp/fast_beamforming) - Fast and efficient beamforming in Python ![python](assets/python.png)
 
-## Earthquake source mechanism
+## Earthquake bulletins/catalogues
+
+- [BGR](https://www.szgrf.bgr.de) - Bulletin of the Federal Institute for Geosciences and Natural Resources, Germany
+- [EMSC](https://emsc-csem.org) - Bulletin of the Euro-Mediterranean Seismological Centre
+- [GEOFON](https://geofon.gfz-potsdam.de) - Bulletin of the GeoForschungsZentrum Potsdam, Germany
+- [Global CMT](https://www.globalcmt.org) - Bulletin of the Global Centroid-Moment-Tensor (CMT) Project
+- [ISC](https://www.isc.ac.uk/iscbulletin/) - Bulletin of the International Seismological Centre, UK
+- [IGN](https://www.ign.es/web/en/ign/portal/sis-catalogo-terremotos) - Bulletin of the Instituto Geografico Nacional, Spain
+- [SED](http://www.seismo.ethz.ch/en/home/) - Bulletin of the Swiss Seismological Service, Switzerland
+- [USGS](https://earthquake.usgs.gov/earthquakes/map/) - Bulletin of the US Geological Survey, USA
+
+## Earthquake analysis
 
 - [Grond (pyrocko)](https://pyrocko.org) - Probabilistic source optimization ![python](assets/python.png)
 - [BEAT (pyrocko)](https://pyrocko.org) - Bayesian Earthquake Analysis Tool ![python](assets/python.png)
+- [BPMF](https://github.com/ebeauce/Seismic_BPMF) - Earthquake detection and location with GPU-accelerated processing ![python](assets/python.png)
 - [focmec](https://seiscode.iris.washington.edu/projects/focmec) - Package for determining and displaying earthquake focal mechanisms
+- [SEISAN](https://seisan.info) - Earthquake analysis software ![fortran](assets/fortran.png)
+- [SeisSol](https://seissol.org) - A software package for simulating wave propagation and dynamic rupture ![cpp](assets/cpp.png)
 
 ## Educational resources
 
@@ -56,6 +73,11 @@
 ## Receiver functions
 
 - [PyGLImER](https://github.com/PyGLImER/PyGLImER) - Workflow to create a global database for Ps and Sp receiver function imaging ![python](assets/python.png)
+
+## Seismic Data
+
+- [EarthScope](https://ds.iris.edu/ds/nodes/dmc/data/) (formerly IRIS) - Waveform and Event data access, US based.
+- [EIDA (ORFEUS)](https://orfeus-eu.org/data/eida/) - Waveform and Event data access, EU based.
 
 ## Seismic Data handling
 
@@ -90,13 +112,14 @@
 - [Fomosto (pyrocko)](https://pyrocko.org) - Calculate and manage Green’s function databases ![python](assets/python.png)
 - [instaseis](https://instaseis.net) - Instant Global Seismograms Based on a Broadband Waveform Database ![python](assets/python.png)
 - [Salvus](https://mondaic.com) - Waveform Simulations and Inversions
+- [SeisSol](https://seissol.org) - A software package for simulating wave propagation and dynamic rupture
 - [SPECFEM](https://specfem.org) - A family of open-source spectral-element method software codes for computational seismology.
 
 ## Synthetic travel times, ray parameters and ray paths
 
 - [TauP](http://www.seis.sc.edu/taup/) - Seismic travel time calculator ![java](assets/java.png)
 - [Cake (pyrocko)]((https://pyrocko.org)) - 1D travel-time and ray-path computations ![python](assets/python.png)
-- [scikit-fmm](https://github.com/scikit-fmm/scikit-fmm) - Fast marching method for Python ![python](assets/python.png)
+- [scikit-fmm](https://github.com/scikit-fmm/scikit-fmm) - Fast Marching Method for Python ![python](assets/python.png)
 - [pykonal](https://github.com/malcolmw/pykonal) - Fast Marching Method in Cartesian or spherical coordinates in 2 or 3 dimensions ![python](assets/python.png)
 
 ## Tomography
@@ -108,4 +131,5 @@
 - [cartopy](https://scitools.org.uk/cartopy/docs/latest/) - Maps for matplotlib ![python](assets/python.png)
 - [cmcrameri](https://www.fabiocrameri.ch/colourmaps/) - Scientific colour maps
 - [cmocean](https://matplotlib.org/cmocean/) - Beautiful colormaps for oceanography
-- [matplotlib](https://matplotlib.org) - Comprehensive library for creating static, animated, and interactive visualizations in Python ![python](assets/python.png)
+- [GMT](https://www.generic-mapping-tools.org) - Generic Mapping Tools
+- [Paraview](https://www.paraview.org) - The world’s leading open source post-processing visualization engine
