@@ -46,6 +46,7 @@
 - [BEAT (pyrocko)](https://pyrocko.org) - Bayesian Earthquake Analysis Tool ![python](assets/python.png)
 - [BPMF](https://github.com/ebeauce/Seismic_BPMF) - Earthquake detection and location with GPU-accelerated processing ![python](assets/python.png)
 - [focmec](https://seiscode.iris.washington.edu/projects/focmec) - Package for determining and displaying earthquake focal mechanisms
+- [PhaseNet](https://github.com/AI4EPS/PhaseNet) - A Deep-Neural-Network-Based Seismic Arrival Time Picking Method ![python](assets/python.png)
 - [SEISAN](https://seisan.info) - Earthquake analysis software ![fortran](assets/fortran.png)
 - [SeisSol](https://seissol.org) - A software package for simulating wave propagation and dynamic rupture ![cpp](assets/cpp.png)
 
