@@ -3,25 +3,25 @@
 > A curated list of awesome seismology tools and resources.
 
 - [Awesome Seismology](#awesome-seismology)
-  - [Array Seismology](#array-seismology)
+  - [Array seismology](#array-seismology)
   - [Earthquake bulletins/catalogues](#earthquake-bulletinscatalogues)
   - [Earthquake analysis](#earthquake-analysis)
   - [Educational resources](#educational-resources)
-  - [Distributed Acoustic Sensing](#distributed-acoustic-sensing)
+  - [Distributed acoustic sensing](#distributed-acoustic-sensing)
   - [Geodetics](#geodetics)
   - [Interdisciplinary](#interdisciplinary)
-  - [Machine Learning](#machine-learning)
+  - [Machine learning](#machine-learning)
   - [Receiver functions](#receiver-functions)
-  - [Seismic Data](#seismic-data)
-  - [Seismic Data handling](#seismic-data-handling)
-  - [Seismic Interferometry \& Ambient Noise](#seismic-interferometry--ambient-noise)
+  - [Seismic data access](#seismic-data-access)
+  - [Seismic data handling](#seismic-data-handling)
+  - [Seismic interferometry \& ambient noise](#seismic-interferometry--ambient-noise)
   - [Source localisation](#source-localisation)
   - [Synthetic seismograms](#synthetic-seismograms)
   - [Synthetic travel times, ray parameters and ray paths](#synthetic-travel-times-ray-parameters-and-ray-paths)
   - [Tomography](#tomography)
   - [Visualisation](#visualisation)
 
-## Array Seismology
+## Array seismology
 
 - [acoular](https://www.acoular.org) - Acoustic testing and source mapping software ![python](assets/python.png)
 - [B3AM](https://github.com/katrinloer/B3AM) / [B3Ampy](https://github.com/cl-finger/B3Ampy) - toolbox for easy and fast beamforming analysis of three-component array data ![matlab](assets/matlab.png)/![python](assets/python.png)
@@ -53,7 +53,7 @@
 
 - [seismo-live](https://seismo-live.github.io) - Live Jupyter Notebooks for Seismology ![python](assets/python.png)
 
-## Distributed Acoustic Sensing
+## Distributed acoustic sensing
 
 - [awesome-das](https://github.com/DAS-RCN/awesome-das) - A curated list of awesome resources for distributed acoustic sensing (DAS).
 
@@ -65,7 +65,7 @@
 
 - [pyGIMLi](https://www.pygimli.org) - Multi-method modelling and inversion in geophysics ![python](assets/python.png)
 
-## Machine Learning
+## Machine learning
 
 - [SeisBench](https://github.com/seisbench/seisbench) - Python toolbox for machine learning in seismology ![python](assets/python.png)
 - [PhaseNet](https://github.com/AI4EPS/PhaseNet) - A Deep-Neural-Network-Based Seismic Arrival Time Picking Method ![python](assets/python.png)
@@ -74,19 +74,19 @@
 
 - [PyGLImER](https://github.com/PyGLImER/PyGLImER) - Workflow to create a global database for Ps and Sp receiver function imaging ![python](assets/python.png)
 
-## Seismic Data
+## Seismic data access
 
 - [EarthScope](https://ds.iris.edu/ds/nodes/dmc/data/) (formerly IRIS) - Waveform and Event data access, US based.
 - [EIDA (ORFEUS)](https://orfeus-eu.org/data/eida/) - Waveform and Event data access, EU based.
 
-## Seismic Data handling
+## Seismic data handling
 
 - [ObsPy](https://github.com/obspy/obspy/wiki/) - Python framework for processing seismological data ![python](assets/python.png)
 - [Seismic Handler](https://www.seismic-handler.org) - Powerful seismic waveform analysis tool
 - [Seismic Unix](https://github.com/JohnWStockwellJr/SeisUnix) - Seismic processing, research, and educational software package
 - [Snuffler (pyrocko)](https://pyrocko.org) - Seismogram browser and workbench ![python](assets/python.png)
 
-## Seismic Interferometry & Ambient Noise
+## Seismic interferometry & ambient noise
 
 - [MSNoise](http://www.msnoise.org) - Python package for monitoring using Ambient Seismic Noise ![python](assets/python.png)
 - [NoisePy](https://github.com/noisepy/NoisePy) - Fast and easy computation of ambient noise cross-correlation functions ![python](assets/python.png)
