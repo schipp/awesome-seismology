@@ -9,6 +9,7 @@
   - [Educational resources](#educational-resources)
   - [Distributed acoustic sensing](#distributed-acoustic-sensing)
   - [Geodetics](#geodetics)
+  - [Imaging](#imaging)
   - [Interdisciplinary](#interdisciplinary)
   - [Machine learning](#machine-learning)
   - [Receiver functions](#receiver-functions)
@@ -18,7 +19,6 @@
   - [Source localisation](#source-localisation)
   - [Synthetic seismograms](#synthetic-seismograms)
   - [Synthetic travel times, ray parameters and ray paths](#synthetic-travel-times-ray-parameters-and-ray-paths)
-  - [Tomography](#tomography)
   - [Visualisation](#visualisation)
 
 ## Array seismology
@@ -61,6 +61,10 @@
 ## Geodetics
 
 - [geokernels](https://github.com/sigmaterra/geokernels) - Fast geospatial distance and geodesic kernel computation ![python](assets/python.png)
+
+## Imaging
+
+- [MSNoise-Tomo](https://github.com/ThomasLecocq/msnoise-tomo) - a plugin to the MSNoise framework for 2D tomography ![python](assets/python.png)
 
 ## Interdisciplinary
 
@@ -122,10 +126,6 @@
 - [Cake (pyrocko)]((https://pyrocko.org)) - 1D travel-time and ray-path computations ![python](assets/python.png)
 - [scikit-fmm](https://github.com/scikit-fmm/scikit-fmm) - Fast Marching Method for Python ![python](assets/python.png)
 - [pykonal](https://github.com/malcolmw/pykonal) - Fast Marching Method in Cartesian or spherical coordinates in 2 or 3 dimensions ![python](assets/python.png)
-
-## Tomography
-
-- [MSNoise-Tomo](https://github.com/ThomasLecocq/msnoise-tomo) - a plugin to the MSNoise framework for 2D tomography ![python](assets/python.png)
 
 ## Visualisation
 
