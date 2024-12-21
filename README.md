@@ -66,6 +66,7 @@
 ## Inversion & Inference
 
 - [BayesBay](https://github.com/fmagrini/bayes-bay) - generalised trans-dimensional and hierarchical Bayesian inference ![python](assets/python.png)
+- [GeoBED](https://github.com/dominik-strutz/GeoBED) - optimal experimental design tailored to geoscientific applications ![python](assets/python.png)
 - [pyGIMLi](https://www.pygimli.org) - Multi-method modelling and inversion in geophysics ![python](assets/python.png)
 
 ## Marine Seismology
@@ -79,8 +80,8 @@
 
 ## Seismic data access
 
-- [EarthScope](https://ds.iris.edu/ds/nodes/dmc/data/) (formerly IRIS) - Waveform and Event data access, US based.
-- [EIDA (ORFEUS)](https://orfeus-eu.org/data/eida/) - Waveform and Event data access, EU based.
+- [EarthScope](https://ds.iris.edu/ds/nodes/dmc/data/) (formerly IRIS) - Waveform and event data access, US based.
+- [EIDA (ORFEUS)](https://orfeus-eu.org/data/eida/) - Waveform and event data access, EU based.
 
 ## Seismic data handling
 
@@ -111,6 +112,7 @@
 
 ## Structure imaging
 
+- [BayesBay](https://github.com/fmagrini/bayes-bay) - generalised trans-dimensional and hierarchical Bayesian inference ![python](assets/python.png)
 - [MSNoise-Tomo](https://github.com/ThomasLecocq/msnoise-tomo) - a plugin to the MSNoise framework for 2D tomography ![python](assets/python.png)
 - [PyGLImER](https://github.com/PyGLImER/PyGLImER) - Workflow to create a global database for Ps and Sp receiver function imaging ![python](assets/python.png)
 
