@@ -9,7 +9,7 @@
   - [Educational resources](#educational-resources)
   - [Distributed acoustic sensing](#distributed-acoustic-sensing)
   - [Geodetics](#geodetics)
-  - [Interdisciplinary](#interdisciplinary)
+  - [Inversion \& Inference](#inversion--inference)
   - [Marine Seismology](#marine-seismology)
   - [Machine learning](#machine-learning)
   - [Seismic data access](#seismic-data-access)
@@ -63,8 +63,9 @@
 
 - [geokernels](https://github.com/sigmaterra/geokernels) - Fast geospatial distance and geodesic kernel computation ![python](assets/python.png)
 
-## Interdisciplinary
+## Inversion & Inference
 
+- [BayesBay](https://github.com/fmagrini/bayes-bay) - generalised trans-dimensional and hierarchical Bayesian inference ![python](assets/python.png)
 - [pyGIMLi](https://www.pygimli.org) - Multi-method modelling and inversion in geophysics ![python](assets/python.png)
 
 ## Marine Seismology
@@ -122,6 +123,7 @@
 - [Salvus](https://mondaic.com) - Waveform Simulations and Inversions
 - [SeisSol](https://seissol.org) - A software package for simulating wave propagation and dynamic rupture
 - [SPECFEM](https://specfem.org) - A family of open-source spectral-element method software codes for computational seismology.
+- [SW4](https://github.com/geodynamics/sw4) - Seismic Waves, 4th order accuracy ![cpp](assets/cpp.png) ![fortran](assets/fortran.png)
 
 ## Synthetic travel times, ray parameters and ray paths
 
@@ -137,3 +139,4 @@
 - [cmocean](https://matplotlib.org/cmocean/) - Beautiful colormaps for oceanography
 - [GMT](https://www.generic-mapping-tools.org) - Generic Mapping Tools
 - [Paraview](https://www.paraview.org) - The world’s leading open source post-processing visualization engine
+- [Scientific Visualization (open access book)](https://github.com/rougier/scientific-visualization-book) - Open access book
