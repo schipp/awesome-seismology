@@ -48,6 +48,7 @@
 - [focmec](https://seiscode.iris.washington.edu/projects/focmec) - Package for determining and displaying earthquake focal mechanisms
 - [PhaseNet](https://github.com/AI4EPS/PhaseNet) - A Deep-Neural-Network-Based Seismic Arrival Time Picking Method ![python](assets/python.png)
 - [SEISAN](https://seisan.info) - Earthquake analysis software ![fortran](assets/fortran.png)
+- [SeisComP](https://www.seiscomp.de) - seismological software for data acquisition, processing, distribution and interactive analysis ![cpp](assets/cpp.png)
 - [SeisSol](https://seissol.org) - A software package for simulating wave propagation and dynamic rupture ![cpp](assets/cpp.png)
 
 ## Educational resources
@@ -86,6 +87,7 @@
 ## Seismic data handling
 
 - [ObsPy](https://github.com/obspy/obspy/wiki/) - Python framework for processing seismological data ![python](assets/python.png)
+- [SeisComP](https://www.seiscomp.de) - seismological software for data acquisition, processing, distribution and interactive analysis ![cpp](assets/cpp.png)
 - [Seismic Handler](https://www.seismic-handler.org) - Powerful seismic waveform analysis tool
 - [Seismic Unix](https://github.com/JohnWStockwellJr/SeisUnix) - Seismic processing, research, and educational software package
 - [Seis.jl](https://github.com/anowacki/Seis.jl) - Open, fast and flexible framework for analysing seismic data in Julia ![julia](assets/julia.png)
