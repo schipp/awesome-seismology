@@ -10,6 +10,7 @@
   - [Distributed acoustic sensing](#distributed-acoustic-sensing)
   - [Geodetics](#geodetics)
   - [Interdisciplinary](#interdisciplinary)
+  - [Marine Seismology](#marine-seismology)
   - [Machine learning](#machine-learning)
   - [Seismic data access](#seismic-data-access)
   - [Seismic data handling](#seismic-data-handling)
@@ -56,6 +57,7 @@
 ## Distributed acoustic sensing
 
 - [awesome-das](https://github.com/DAS-RCN/awesome-das) - A curated list of awesome resources for distributed acoustic sensing (DAS).
+- [DASCore](https://dascore.netlify.app) - A python library for distributed fiber optic sensing ![python](assets/python.png)
 
 ## Geodetics
 
@@ -64,6 +66,10 @@
 ## Interdisciplinary
 
 - [pyGIMLi](https://www.pygimli.org) - Multi-method modelling and inversion in geophysics ![python](assets/python.png)
+
+## Marine Seismology
+
+- [OCloC (OBS Clock Correction)](https://ocloc.readthedocs.io/en/latest/index.html) - detect and correct timing errors when using passive seismic records ![python](assets/python.png)
 
 ## Machine learning
 
@@ -80,6 +86,7 @@
 - [ObsPy](https://github.com/obspy/obspy/wiki/) - Python framework for processing seismological data ![python](assets/python.png)
 - [Seismic Handler](https://www.seismic-handler.org) - Powerful seismic waveform analysis tool
 - [Seismic Unix](https://github.com/JohnWStockwellJr/SeisUnix) - Seismic processing, research, and educational software package
+- [Seis.jl](https://github.com/anowacki/Seis.jl) - Open, fast and flexible framework for analysing seismic data in Julia ![julia](assets/julia.png)
 - [Snuffler (pyrocko)](https://pyrocko.org) - Seismogram browser and workbench ![python](assets/python.png)
 
 ## Seismic interferometry & ambient noise
@@ -88,7 +95,7 @@
 - [NoisePy](https://github.com/noisepy/NoisePy) - Fast and easy computation of ambient noise cross-correlation functions ![python](assets/python.png)
 - [noisi](https://github.com/lermert/noisi) - ambient noise cross-correlation modeling and inversion ![python](assets/python.png)
 - [SANS](https://sans.ethz.ch) - Seismic Ambient Noise Source Maps
-- [Seis.jl](https://github.com/anowacki/Seis.jl) - Open, fast and flexible framework for analysing seismic data in Julia ![julia](assets/julia.png)
+- [SeisNoise.jl](https://github.com/JuliaSeismo/SeisNoise.jl) - fast and easy ambient noise cross-correlation in Julia ![julia](assets/julia.png)
 - [SeisMIC](https://github.com/PeterMakus/SeisMIC) - Seismological Monitoring using Interferometric Concepts ![python](assets/python.png)
 - [WMSAN](https://tomasetl.gricad-pages.univ-grenoble-alpes.fr/ww3-source-maps/) - Wave Model Sources of Ambient Noise ![python](assets/python.png)
 
