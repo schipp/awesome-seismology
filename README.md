@@ -128,7 +128,7 @@
 ## Synthetic travel times, ray parameters and ray paths
 
 - [TauP](http://www.seis.sc.edu/taup/) - Seismic travel time calculator ![java](assets/java.png)
-- [Cake (pyrocko)]((https://pyrocko.org)) - 1D travel-time and ray-path computations ![python](assets/python.png)
+- [Cake (pyrocko)](https://pyrocko.org) - 1D travel-time and ray-path computations ![python](assets/python.png)
 - [scikit-fmm](https://github.com/scikit-fmm/scikit-fmm) - Fast Marching Method for Python ![python](assets/python.png)
 - [pykonal](https://github.com/malcolmw/pykonal) - Fast Marching Method in Cartesian or spherical coordinates in 2 or 3 dimensions ![python](assets/python.png)
 
