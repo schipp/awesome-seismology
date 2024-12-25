@@ -4,14 +4,14 @@
 
 - [Awesome Seismology](#awesome-seismology)
   - [Array seismology](#array-seismology)
-  - [Earthquake bulletins/catalogues](#earthquake-bulletinscatalogues)
   - [Earthquake analysis](#earthquake-analysis)
+  - [Earthquake bulletins/catalogues](#earthquake-bulletinscatalogues)
   - [Educational resources](#educational-resources)
   - [Distributed acoustic sensing](#distributed-acoustic-sensing)
   - [Geodetics](#geodetics)
   - [Inversion \& Inference](#inversion--inference)
-  - [Marine Seismology](#marine-seismology)
   - [Machine learning](#machine-learning)
+  - [Marine Seismology](#marine-seismology)
   - [Seismic data access](#seismic-data-access)
   - [Seismic data handling](#seismic-data-handling)
   - [Seismic interferometry \& ambient noise](#seismic-interferometry--ambient-noise)
@@ -29,17 +29,6 @@
 - [covseisnet](https://github.com/covseisnet/covseisnet) - Array covariance matrix analysis ![python](assets/python.png)
 - [fast_beamforming](https://github.com/schipp/fast_beamforming) - Fast and efficient beamforming in Python ![python](assets/python.png)
 
-## Earthquake bulletins/catalogues
-
-- [BGR](https://www.szgrf.bgr.de) - Bulletin of the Federal Institute for Geosciences and Natural Resources, Germany
-- [EMSC](https://emsc-csem.org) - Bulletin of the Euro-Mediterranean Seismological Centre
-- [GEOFON](https://geofon.gfz-potsdam.de) - Bulletin of the GeoForschungsZentrum Potsdam, Germany
-- [Global CMT](https://www.globalcmt.org) - Bulletin of the Global Centroid-Moment-Tensor (CMT) Project
-- [ISC](https://www.isc.ac.uk/iscbulletin/) - Bulletin of the International Seismological Centre, UK
-- [IGN](https://www.ign.es/web/en/ign/portal/sis-catalogo-terremotos) - Bulletin of the Instituto Geografico Nacional, Spain
-- [SED](http://www.seismo.ethz.ch/en/home/) - Bulletin of the Swiss Seismological Service, Switzerland
-- [USGS](https://earthquake.usgs.gov/earthquakes/map/) - Bulletin of the US Geological Survey, USA
-
 ## Earthquake analysis
 
 - [Grond (pyrocko)](https://pyrocko.org) - Probabilistic source optimization ![python](assets/python.png)
@@ -51,6 +40,17 @@
 - [SEISAN](https://seisan.info) - Earthquake analysis software ![fortran](assets/fortran.png)
 - [SeisComP](https://www.seiscomp.de) - Seismological software for data acquisition, processing, distribution and interactive analysis ![cpp](assets/cpp.png)
 - [SeisSol](https://seissol.org) - Software package for simulating wave propagation and dynamic rupture ![cpp](assets/cpp.png)
+
+## Earthquake bulletins/catalogues
+
+- [BGR](https://www.szgrf.bgr.de) - Bulletin of the Federal Institute for Geosciences and Natural Resources, Germany
+- [EMSC](https://emsc-csem.org) - Bulletin of the Euro-Mediterranean Seismological Centre
+- [GEOFON](https://geofon.gfz-potsdam.de) - Bulletin of the GeoForschungsZentrum Potsdam, Germany
+- [Global CMT](https://www.globalcmt.org) - Bulletin of the Global Centroid-Moment-Tensor (CMT) Project
+- [ISC](https://www.isc.ac.uk/iscbulletin/) - Bulletin of the International Seismological Centre, UK
+- [IGN](https://www.ign.es/web/en/ign/portal/sis-catalogo-terremotos) - Bulletin of the Instituto Geografico Nacional, Spain
+- [SED](http://www.seismo.ethz.ch/en/home/) - Bulletin of the Swiss Seismological Service, Switzerland
+- [USGS](https://earthquake.usgs.gov/earthquakes/map/) - Bulletin of the US Geological Survey, USA
 
 ## Educational resources
 
@@ -71,14 +71,14 @@
 - [GeoBED](https://github.com/dominik-strutz/GeoBED) - Optimal experimental design tailored to geoscientific applications ![python](assets/python.png)
 - [pyGIMLi](https://www.pygimli.org) - Multi-method modelling and inversion in geophysics ![python](assets/python.png)
 
-## Marine Seismology
-
-- [OCloC (OBS Clock Correction)](https://ocloc.readthedocs.io/en/latest/index.html) - Detect and correct timing errors when using passive seismic records ![python](assets/python.png)
-
 ## Machine learning
 
 - [SeisBench](https://github.com/seisbench/seisbench) - Python toolbox for machine learning in seismology ![python](assets/python.png)
 - [PhaseNet](https://github.com/AI4EPS/PhaseNet) - Deep-neural-network-based seismic arrival time picking method ![python](assets/python.png)
+
+## Marine Seismology
+
+- [OCloC (OBS Clock Correction)](https://ocloc.readthedocs.io/en/latest/index.html) - Detect and correct timing errors when using passive seismic records ![python](assets/python.png)
 
 ## Seismic data access
 
