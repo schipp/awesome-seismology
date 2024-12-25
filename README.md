@@ -24,9 +24,9 @@
 ## Array seismology
 
 - [acoular](https://www.acoular.org) - Acoustic testing and source mapping software ![python](assets/python.png)
-- [B3AM](https://github.com/katrinloer/B3AM) / [B3Ampy](https://github.com/cl-finger/B3Ampy) - toolbox for easy and fast beamforming analysis of three-component array data ![matlab](assets/matlab.png)/![python](assets/python.png)
+- [B3AM](https://github.com/katrinloer/B3AM) / [B3Ampy](https://github.com/cl-finger/B3Ampy) - Toolbox for easy and fast beamforming analysis of three-component array data ![matlab](assets/matlab.png)/![python](assets/python.png)
 - [beampower](https://github.com/ebeauce/beampower) - Beamforming (or backprojection) of seismic signal for event detection and location ![python](assets/python.png)
-- [covseisnet](https://github.com/covseisnet/covseisnet) - array covariance matrix analysis ![python](assets/python.png)
+- [covseisnet](https://github.com/covseisnet/covseisnet) - Array covariance matrix analysis ![python](assets/python.png)
 - [fast_beamforming](https://github.com/schipp/fast_beamforming) - Fast and efficient beamforming in Python ![python](assets/python.png)
 
 ## Earthquake bulletins/catalogues
@@ -45,16 +45,16 @@
 - [Grond (pyrocko)](https://pyrocko.org) - Probabilistic source optimization ![python](assets/python.png)
 - [BEAT (pyrocko)](https://pyrocko.org) - Bayesian Earthquake Analysis Tool ![python](assets/python.png)
 - [BPMF](https://github.com/ebeauce/Seismic_BPMF) - Earthquake detection and location with GPU-accelerated processing ![python](assets/python.png)
-- [Earthworm](https://gitlab.com/seismic-software/earthworm/) - waveform and automatic earthquake processing software ![c](assets/c.png)
+- [Earthworm](https://gitlab.com/seismic-software/earthworm/) - Waveform and automatic earthquake processing software ![c](assets/c.png)
 - [focmec](https://seiscode.iris.washington.edu/projects/focmec) - Package for determining and displaying earthquake focal mechanisms
-- [PhaseNet](https://github.com/AI4EPS/PhaseNet) - A Deep-Neural-Network-Based Seismic Arrival Time Picking Method ![python](assets/python.png)
+- [PhaseNet](https://github.com/AI4EPS/PhaseNet) - A deep-neural-network-based seismic arrival time picking method ![python](assets/python.png)
 - [SEISAN](https://seisan.info) - Earthquake analysis software ![fortran](assets/fortran.png)
-- [SeisComP](https://www.seiscomp.de) - seismological software for data acquisition, processing, distribution and interactive analysis ![cpp](assets/cpp.png)
-- [SeisSol](https://seissol.org) - A software package for simulating wave propagation and dynamic rupture ![cpp](assets/cpp.png)
+- [SeisComP](https://www.seiscomp.de) - Seismological software for data acquisition, processing, distribution and interactive analysis ![cpp](assets/cpp.png)
+- [SeisSol](https://seissol.org) - Software package for simulating wave propagation and dynamic rupture ![cpp](assets/cpp.png)
 
 ## Educational resources
 
-- [seismo-live](https://seismo-live.github.io) - Live Jupyter Notebooks for Seismology ![python](assets/python.png)
+- [seismo-live](https://seismo-live.github.io) - Live jupyter notebooks for seismology ![python](assets/python.png)
 
 ## Distributed acoustic sensing
 
@@ -67,18 +67,18 @@
 
 ## Inversion & Inference
 
-- [BayesBay](https://github.com/fmagrini/bayes-bay) - generalised trans-dimensional and hierarchical Bayesian inference ![python](assets/python.png)
-- [GeoBED](https://github.com/dominik-strutz/GeoBED) - optimal experimental design tailored to geoscientific applications ![python](assets/python.png)
+- [BayesBay](https://github.com/fmagrini/bayes-bay) - Generalised trans-dimensional and hierarchical Bayesian inference ![python](assets/python.png)
+- [GeoBED](https://github.com/dominik-strutz/GeoBED) - Optimal experimental design tailored to geoscientific applications ![python](assets/python.png)
 - [pyGIMLi](https://www.pygimli.org) - Multi-method modelling and inversion in geophysics ![python](assets/python.png)
 
 ## Marine Seismology
 
-- [OCloC (OBS Clock Correction)](https://ocloc.readthedocs.io/en/latest/index.html) - detect and correct timing errors when using passive seismic records ![python](assets/python.png)
+- [OCloC (OBS Clock Correction)](https://ocloc.readthedocs.io/en/latest/index.html) - Detect and correct timing errors when using passive seismic records ![python](assets/python.png)
 
 ## Machine learning
 
 - [SeisBench](https://github.com/seisbench/seisbench) - Python toolbox for machine learning in seismology ![python](assets/python.png)
-- [PhaseNet](https://github.com/AI4EPS/PhaseNet) - A Deep-Neural-Network-Based Seismic Arrival Time Picking Method ![python](assets/python.png)
+- [PhaseNet](https://github.com/AI4EPS/PhaseNet) - A deep-neural-network-based seismic arrival time picking method ![python](assets/python.png)
 
 ## Seismic data access
 
@@ -87,9 +87,9 @@
 
 ## Seismic data handling
 
-- [Earthworm](https://gitlab.com/seismic-software/earthworm/) - waveform and automatic earthquake processing software ![c](assets/c.png)
+- [Earthworm](https://gitlab.com/seismic-software/earthworm/) - Waveform and automatic earthquake processing software ![c](assets/c.png)
 - [ObsPy](https://github.com/obspy/obspy/wiki/) - Python framework for processing seismological data ![python](assets/python.png)
-- [SeisComP](https://www.seiscomp.de) - seismological software for data acquisition, processing, distribution and interactive analysis ![cpp](assets/cpp.png)
+- [SeisComP](https://www.seiscomp.de) - Seismological software for data acquisition, processing, distribution and interactive analysis ![cpp](assets/cpp.png)
 - [Seismic Handler](https://www.seismic-handler.org) - Powerful seismic waveform analysis tool
 - [Seismic Unix](https://github.com/JohnWStockwellJr/SeisUnix) - Seismic processing, research, and educational software package
 - [Seis.jl](https://github.com/anowacki/Seis.jl) - Open, fast and flexible framework for analysing seismic data in Julia ![julia](assets/julia.png)
@@ -97,13 +97,13 @@
 
 ## Seismic interferometry & ambient noise
 
-- [MSNoise](http://www.msnoise.org) - Python package for monitoring using Ambient Seismic Noise ![python](assets/python.png)
+- [MSNoise](http://www.msnoise.org) - Python package for monitoring using ambient seismic noise ![python](assets/python.png)
 - [NoisePy](https://github.com/noisepy/NoisePy) - Fast and easy computation of ambient noise cross-correlation functions ![python](assets/python.png)
-- [noisi](https://github.com/lermert/noisi) - ambient noise cross-correlation modeling and inversion ![python](assets/python.png)
-- [SANS](https://sans.ethz.ch) - Seismic Ambient Noise Source Maps
-- [SeisNoise.jl](https://github.com/JuliaSeismo/SeisNoise.jl) - fast and easy ambient noise cross-correlation in Julia ![julia](assets/julia.png)
-- [SeisMIC](https://github.com/PeterMakus/SeisMIC) - Seismological Monitoring using Interferometric Concepts ![python](assets/python.png)
-- [WMSAN](https://tomasetl.gricad-pages.univ-grenoble-alpes.fr/ww3-source-maps/) - Wave Model Sources of Ambient Noise ![python](assets/python.png)
+- [noisi](https://github.com/lermert/noisi) - Ambient noise cross-correlation modeling and inversion ![python](assets/python.png)
+- [SANS](https://sans.ethz.ch) - Seismic ambient noise source maps
+- [SeisNoise.jl](https://github.com/JuliaSeismo/SeisNoise.jl) - Fast and easy ambient noise cross-correlation in Julia ![julia](assets/julia.png)
+- [SeisMIC](https://github.com/PeterMakus/SeisMIC) - Seismological monitoring using interferometric concepts ![python](assets/python.png)
+- [WMSAN](https://tomasetl.gricad-pages.univ-grenoble-alpes.fr/ww3-source-maps/) - Wave model sources of ambient noise ![python](assets/python.png)
 
 ## Source localisation
 
@@ -112,32 +112,32 @@
 - [BPMF](https://github.com/ebeauce/Seismic_BPMF) - Earthquake detection and location with GPU-accelerated processing ![python](assets/python.png)
 - [fast_beamforming](https://github.com/schipp/fast_beamforming) - Fast and efficient beamforming in Python ![python](assets/python.png)
 - [HypoDD](https://www.ldeo.columbia.edu/~felixw/hypoDD.html) - Double-difference earthquake location algorithm
-- [NonLinLoc](https://github.com/alomax/NonLinLoc) - Non-Linear Location
+- [NonLinLoc](https://github.com/alomax/NonLinLoc) - Non-Linear locations
 
 ## Structure imaging
 
-- [BayesBay](https://github.com/fmagrini/bayes-bay) - generalised trans-dimensional and hierarchical Bayesian inference ![python](assets/python.png)
-- [MSNoise-Tomo](https://github.com/ThomasLecocq/msnoise-tomo) - a plugin to the MSNoise framework for 2D tomography ![python](assets/python.png)
+- [BayesBay](https://github.com/fmagrini/bayes-bay) - Generalised trans-dimensional and hierarchical Bayesian inference ![python](assets/python.png)
+- [MSNoise-Tomo](https://github.com/ThomasLecocq/msnoise-tomo) - Plugin to the MSNoise framework for 2D tomography ![python](assets/python.png)
 - [PyGLImER](https://github.com/PyGLImER/PyGLImER) - Workflow to create a global database for Ps and Sp receiver function imaging ![python](assets/python.png)
 
 ## Synthetic seismograms
 
 - [AxiSEM](https://github.com/geodynamics/axisem) - Axially symmetric Spectral Element Method ![fortran](assets/fortran.png)
-- [Axitra](https://github.com/coutanto/axitra) - seismograms in 3D plane layered medium ![fortran](assets/fortran.png) ![python](assets/python.png)
-- [Computer Programs in Seismology](https://github.com/rbherrmann/ComputerProgramsSeismology) - a package of programs for making synthetic seismograms and for the inversion of seismic data
+- [Axitra](https://github.com/coutanto/axitra) - Seismograms in 3D plane layered medium ![fortran](assets/fortran.png) ![python](assets/python.png)
+- [Computer Programs in Seismology](https://github.com/rbherrmann/ComputerProgramsSeismology) - Package of programs for making synthetic seismograms
 - [Fomosto (pyrocko)](https://pyrocko.org) - Calculate and manage Green’s function databases ![python](assets/python.png)
-- [instaseis](https://instaseis.net) - Instant Global Seismograms Based on a Broadband Waveform Database ![python](assets/python.png)
-- [Salvus](https://mondaic.com) - Waveform Simulations and Inversions
-- [SeisSol](https://seissol.org) - A software package for simulating wave propagation and dynamic rupture ![cpp](assets/cpp.png)
-- [SPECFEM](https://specfem.org) - A family of open-source spectral-element method software codes for computational seismology ![fortran](assets/fortran.png)![c](assets/c.png)
-- [SW4](https://github.com/geodynamics/sw4) - Seismic Waves, 4th order accuracy ![fortran](assets/fortran.png)![cpp](assets/cpp.png)
+- [instaseis](https://instaseis.net) - Instant global seismograms based on a broadband waveform database ![python](assets/python.png)
+- [Salvus](https://mondaic.com) - Proprietary waveform simulations and inversions
+- [SeisSol](https://seissol.org) - Software package for simulating wave propagation and dynamic rupture ![cpp](assets/cpp.png)
+- [SPECFEM](https://specfem.org) - Open-source spectral-element method software codes for computational seismology ![fortran](assets/fortran.png)![c](assets/c.png)
+- [SW4](https://github.com/geodynamics/sw4) - Seismic waves, 4th order accuracy ![fortran](assets/fortran.png)![cpp](assets/cpp.png)
 
 ## Synthetic travel times, ray parameters and ray paths
 
 - [TauP](http://www.seis.sc.edu/taup/) - Seismic travel time calculator ![java](assets/java.png)
 - [Cake (pyrocko)](https://pyrocko.org) - 1D travel-time and ray-path computations ![python](assets/python.png)
 - [scikit-fmm](https://github.com/scikit-fmm/scikit-fmm) - Fast Marching Method for Python ![python](assets/python.png)
-- [pykonal](https://github.com/malcolmw/pykonal) - Fast Marching Method in Cartesian or spherical coordinates in 2 or 3 dimensions ![python](assets/python.png)
+- [pykonal](https://github.com/malcolmw/pykonal) - Fast Marching Method in cartesian or spherical coordinates in 2 or 3 dimensions ![python](assets/python.png)
 
 ## Visualisation
 
@@ -146,4 +146,4 @@
 - [cmocean](https://matplotlib.org/cmocean/) - Beautiful colormaps for oceanography
 - [GMT](https://www.generic-mapping-tools.org) - Generic Mapping Tools
 - [Paraview](https://www.paraview.org) - The world’s leading open source post-processing visualization engine
-- [Scientific Visualization (open access book)](https://github.com/rougier/scientific-visualization-book) - Open access book
+- [Scientific Visualization (open access book)](https://github.com/rougier/scientific-visualization-book)
