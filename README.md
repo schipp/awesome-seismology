@@ -47,7 +47,7 @@
 - [BPMF](https://github.com/ebeauce/Seismic_BPMF) - Earthquake detection and location with GPU-accelerated processing ![python](assets/python.png)
 - [Earthworm](https://gitlab.com/seismic-software/earthworm/) - Waveform and automatic earthquake processing software ![c](assets/c.png)
 - [focmec](https://seiscode.iris.washington.edu/projects/focmec) - Package for determining and displaying earthquake focal mechanisms
-- [PhaseNet](https://github.com/AI4EPS/PhaseNet) - A deep-neural-network-based seismic arrival time picking method ![python](assets/python.png)
+- [PhaseNet](https://github.com/AI4EPS/PhaseNet) - Deep-neural-network-based seismic arrival time picking method ![python](assets/python.png)
 - [SEISAN](https://seisan.info) - Earthquake analysis software ![fortran](assets/fortran.png)
 - [SeisComP](https://www.seiscomp.de) - Seismological software for data acquisition, processing, distribution and interactive analysis ![cpp](assets/cpp.png)
 - [SeisSol](https://seissol.org) - Software package for simulating wave propagation and dynamic rupture ![cpp](assets/cpp.png)
@@ -58,8 +58,8 @@
 
 ## Distributed acoustic sensing
 
-- [awesome-das](https://github.com/DAS-RCN/awesome-das) - A curated list of awesome resources for distributed acoustic sensing (DAS).
-- [DASCore](https://dascore.netlify.app) - A python library for distributed fiber optic sensing ![python](assets/python.png)
+- [awesome-das](https://github.com/DAS-RCN/awesome-das) - Curated list of awesome resources for distributed acoustic sensing (DAS).
+- [DASCore](https://dascore.netlify.app) - Python library for distributed fiber optic sensing ![python](assets/python.png)
 
 ## Geodetics
 
@@ -78,7 +78,7 @@
 ## Machine learning
 
 - [SeisBench](https://github.com/seisbench/seisbench) - Python toolbox for machine learning in seismology ![python](assets/python.png)
-- [PhaseNet](https://github.com/AI4EPS/PhaseNet) - A deep-neural-network-based seismic arrival time picking method ![python](assets/python.png)
+- [PhaseNet](https://github.com/AI4EPS/PhaseNet) - Deep-neural-network-based seismic arrival time picking method ![python](assets/python.png)
 
 ## Seismic data access
 
