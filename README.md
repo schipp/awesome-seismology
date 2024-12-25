@@ -24,7 +24,7 @@
 ## Array seismology
 
 - [acoular](https://www.acoular.org) - Acoustic testing and source mapping software ![python](assets/python.png)
-- [B3AM](https://github.com/katrinloer/B3AM) / [B3Ampy](https://github.com/cl-finger/B3Ampy) - Toolbox for easy and fast beamforming analysis of three-component array data ![matlab](assets/matlab.png)/![python](assets/python.png)
+- [B3AM](https://github.com/katrinloer/B3AM) / [B3Ampy](https://github.com/cl-finger/B3Ampy) - Toolbox for easy and fast beamforming analysis of three-component array data ![matlab](assets/matlab.png) / ![python](assets/python.png)
 - [beampower](https://github.com/ebeauce/beampower) - Beamforming (or backprojection) of seismic signal for event detection and location ![python](assets/python.png)
 - [covseisnet](https://github.com/covseisnet/covseisnet) - Array covariance matrix analysis ![python](assets/python.png)
 - [fast_beamforming](https://github.com/schipp/fast_beamforming) - Fast and efficient beamforming in Python ![python](assets/python.png)
@@ -129,8 +129,8 @@
 - [instaseis](https://instaseis.net) - Instant global seismograms based on a broadband waveform database ![python](assets/python.png)
 - [Salvus](https://mondaic.com) - Proprietary waveform simulations and inversions
 - [SeisSol](https://seissol.org) - Software package for simulating wave propagation and dynamic rupture ![cpp](assets/cpp.png)
-- [SPECFEM](https://specfem.org) - Open-source spectral-element method software codes for computational seismology ![fortran](assets/fortran.png)![c](assets/c.png)
-- [SW4](https://github.com/geodynamics/sw4) - Seismic waves, 4th order accuracy ![fortran](assets/fortran.png)![cpp](assets/cpp.png)
+- [SPECFEM](https://specfem.org) - Open-source spectral-element method software codes for computational seismology ![fortran](assets/fortran.png) ![c](assets/c.png)
+- [SW4](https://github.com/geodynamics/sw4) - Seismic waves, 4th order accuracy ![fortran](assets/fortran.png) ![cpp](assets/cpp.png)
 
 ## Synthetic travel times, ray parameters and ray paths
 
