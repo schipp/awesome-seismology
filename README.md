@@ -45,6 +45,7 @@
 - [Grond (pyrocko)](https://pyrocko.org) - Probabilistic source optimization ![python](assets/python.png)
 - [BEAT (pyrocko)](https://pyrocko.org) - Bayesian Earthquake Analysis Tool ![python](assets/python.png)
 - [BPMF](https://github.com/ebeauce/Seismic_BPMF) - Earthquake detection and location with GPU-accelerated processing ![python](assets/python.png)
+- [Earthworm](https://gitlab.com/seismic-software/earthworm/) - waveform and automatic earthquake processing software ![c](assets/c.png)
 - [focmec](https://seiscode.iris.washington.edu/projects/focmec) - Package for determining and displaying earthquake focal mechanisms
 - [PhaseNet](https://github.com/AI4EPS/PhaseNet) - A Deep-Neural-Network-Based Seismic Arrival Time Picking Method ![python](assets/python.png)
 - [SEISAN](https://seisan.info) - Earthquake analysis software ![fortran](assets/fortran.png)
@@ -86,6 +87,7 @@
 
 ## Seismic data handling
 
+- [Earthworm](https://gitlab.com/seismic-software/earthworm/) - waveform and automatic earthquake processing software ![c](assets/c.png)
 - [ObsPy](https://github.com/obspy/obspy/wiki/) - Python framework for processing seismological data ![python](assets/python.png)
 - [SeisComP](https://www.seiscomp.de) - seismological software for data acquisition, processing, distribution and interactive analysis ![cpp](assets/cpp.png)
 - [Seismic Handler](https://www.seismic-handler.org) - Powerful seismic waveform analysis tool
@@ -121,13 +123,14 @@
 ## Synthetic seismograms
 
 - [AxiSEM](https://github.com/geodynamics/axisem) - Axially symmetric Spectral Element Method ![fortran](assets/fortran.png)
+- [Axitra](https://github.com/coutanto/axitra) - seismograms in 3D plane layered medium ![fortran](assets/fortran.png) ![python](assets/python.png)
 - [Computer Programs in Seismology](https://github.com/rbherrmann/ComputerProgramsSeismology) - a package of programs for making synthetic seismograms and for the inversion of seismic data
 - [Fomosto (pyrocko)](https://pyrocko.org) - Calculate and manage Green’s function databases ![python](assets/python.png)
 - [instaseis](https://instaseis.net) - Instant Global Seismograms Based on a Broadband Waveform Database ![python](assets/python.png)
 - [Salvus](https://mondaic.com) - Waveform Simulations and Inversions
-- [SeisSol](https://seissol.org) - A software package for simulating wave propagation and dynamic rupture
-- [SPECFEM](https://specfem.org) - A family of open-source spectral-element method software codes for computational seismology.
-- [SW4](https://github.com/geodynamics/sw4) - Seismic Waves, 4th order accuracy ![cpp](assets/cpp.png) ![fortran](assets/fortran.png)
+- [SeisSol](https://seissol.org) - A software package for simulating wave propagation and dynamic rupture ![cpp](assets/cpp.png)
+- [SPECFEM](https://specfem.org) - A family of open-source spectral-element method software codes for computational seismology ![fortran](assets/fortran.png)![c](assets/c.png)
+- [SW4](https://github.com/geodynamics/sw4) - Seismic Waves, 4th order accuracy ![fortran](assets/fortran.png)![cpp](assets/cpp.png)
 
 ## Synthetic travel times, ray parameters and ray paths
 
