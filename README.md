@@ -1,6 +1,8 @@
 # Awesome Seismology
 
 > A curated list of awesome tools and resources for seismologists.
+>
+> Is something missing from the list? Feel free to open an issue or a pull request!
 
 - [Awesome Seismology](#awesome-seismology)
   - [Array seismology](#array-seismology)
