@@ -11,6 +11,7 @@
   - [Educational resources](#educational-resources)
   - [Distributed acoustic sensing](#distributed-acoustic-sensing)
   - [Geodetics](#geodetics)
+  - [Imaging](#imaging)
   - [Inversion \& Inference](#inversion--inference)
   - [Machine learning](#machine-learning)
   - [Marine Seismology](#marine-seismology)
@@ -18,7 +19,6 @@
   - [Seismic data handling](#seismic-data-handling)
   - [Seismic interferometry \& ambient noise](#seismic-interferometry--ambient-noise)
   - [Source localisation](#source-localisation)
-  - [Structure imaging](#structure-imaging)
   - [Synthetic seismograms](#synthetic-seismograms)
   - [Synthetic travel times, ray parameters and ray paths](#synthetic-travel-times-ray-parameters-and-ray-paths)
   - [Visualisation](#visualisation)
@@ -73,6 +73,12 @@
 
 - [geokernels](https://github.com/sigmaterra/geokernels) - Fast geospatial distance and geodesic kernel computation ![python](assets/python.png)
 
+## Imaging
+
+- [BayesBay](https://github.com/fmagrini/bayes-bay) - Generalised trans-dimensional and hierarchical Bayesian inference ![python](assets/python.png)
+- [MSNoise-Tomo](https://github.com/ThomasLecocq/msnoise-tomo) - Plugin to the MSNoise framework for 2D tomography ![python](assets/python.png)
+- [PyGLImER](https://github.com/PyGLImER/PyGLImER) - Workflow to create a global database for Ps and Sp receiver function imaging ![python](assets/python.png)
+
 ## Inversion & Inference
 
 - [BayesBay](https://github.com/fmagrini/bayes-bay) - Generalised trans-dimensional and hierarchical Bayesian inference ![python](assets/python.png)
@@ -125,12 +131,6 @@
 - [HypoDD](https://www.ldeo.columbia.edu/~felixw/hypoDD.html) - Double-difference earthquake location algorithm
 - [NonLinLoc](https://github.com/alomax/NonLinLoc) - Non-Linear locations ![c](assets/c.png)
 - [Simul2023](https://zenodo.org/records/10695070) - inversion of earthquake data for 3-D velocity and hypocenters or 3-D Q ![fortran](assets/fortran.png)
-
-## Structure imaging
-
-- [BayesBay](https://github.com/fmagrini/bayes-bay) - Generalised trans-dimensional and hierarchical Bayesian inference ![python](assets/python.png)
-- [MSNoise-Tomo](https://github.com/ThomasLecocq/msnoise-tomo) - Plugin to the MSNoise framework for 2D tomography ![python](assets/python.png)
-- [PyGLImER](https://github.com/PyGLImER/PyGLImER) - Workflow to create a global database for Ps and Sp receiver function imaging ![python](assets/python.png)
 
 ## Synthetic seismograms
 
