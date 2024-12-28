@@ -45,6 +45,7 @@
 - [SEISAN](https://seisan.info) - Earthquake analysis software ![fortran](assets/fortran.png)
 - [SeisComP](https://www.seiscomp.de) - Seismological software for data acquisition, processing, distribution and interactive analysis ![cpp](assets/cpp.png)
 - [SeisSol](https://seissol.org) - Software package for simulating wave propagation and dynamic rupture ![cpp](assets/cpp.png)
+- [Simul2023](https://zenodo.org/records/10695070) - inversion of earthquake data for 3-D velocity and hypocenters or 3-D Q ![fortran](assets/fortran.png)
 
 ## Earthquake bulletins/catalogues
 
@@ -76,6 +77,7 @@
 - [DeepDenoiser](https://github.com/AI4EPS/DeepDenoiser) - Seismic signal denoising and decomposition using deep neural networks ![python](assets/python.png)
 - [GeoBED](https://github.com/dominik-strutz/GeoBED) - Optimal experimental design tailored to geoscientific applications ![python](assets/python.png)
 - [pyGIMLi](https://www.pygimli.org) - Multi-method modelling and inversion in geophysics ![python](assets/python.png)
+- [Simul2023](https://zenodo.org/records/10695070) - flexible program for inversion of earthquake data for 3-D velocity and hypocenters or 3-D Q ![fortran](assets/fortran.png)
 
 ## Machine learning
 
@@ -120,6 +122,7 @@
 - [fast_beamforming](https://github.com/schipp/fast_beamforming) - Fast and efficient beamforming in Python ![python](assets/python.png)
 - [HypoDD](https://www.ldeo.columbia.edu/~felixw/hypoDD.html) - Double-difference earthquake location algorithm
 - [NonLinLoc](https://github.com/alomax/NonLinLoc) - Non-Linear locations
+- [Simul2023](https://zenodo.org/records/10695070) - inversion of earthquake data for 3-D velocity and hypocenters or 3-D Q ![fortran](assets/fortran.png)
 
 ## Structure imaging
 
