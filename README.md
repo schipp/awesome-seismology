@@ -40,6 +40,8 @@
 - [BPMF](https://github.com/ebeauce/Seismic_BPMF) - Earthquake detection and location with GPU-accelerated processing ![python](assets/python.png)
 - [Earthworm](https://gitlab.com/seismic-software/earthworm/) - Waveform and automatic earthquake processing software ![c](assets/c.png)
 - [focmec](https://seiscode.iris.washington.edu/projects/focmec) - Package for determining and displaying earthquake focal mechanisms
+- [HypoDD](https://www.ldeo.columbia.edu/~felixw/hypoDD.html) - Double-difference earthquake location algorithm
+- [NonLinLoc](https://github.com/alomax/NonLinLoc) - Non-Linear locations ![c](assets/c.png)
 - [PhaseNet](https://github.com/AI4EPS/PhaseNet) - Deep-neural-network-based seismic arrival time picking method ![python](assets/python.png)
 - [PyOcto](https://github.com/yetinam/pyocto) - High-throughput seismic phase associator ![python](assets/python.png)
 - [SEISAN](https://seisan.info) - Earthquake analysis software ![fortran](assets/fortran.png)
@@ -121,7 +123,7 @@
 - [BPMF](https://github.com/ebeauce/Seismic_BPMF) - Earthquake detection and location with GPU-accelerated processing ![python](assets/python.png)
 - [fast_beamforming](https://github.com/schipp/fast_beamforming) - Fast and efficient beamforming in Python ![python](assets/python.png)
 - [HypoDD](https://www.ldeo.columbia.edu/~felixw/hypoDD.html) - Double-difference earthquake location algorithm
-- [NonLinLoc](https://github.com/alomax/NonLinLoc) - Non-Linear locations
+- [NonLinLoc](https://github.com/alomax/NonLinLoc) - Non-Linear locations ![c](assets/c.png)
 - [Simul2023](https://zenodo.org/records/10695070) - inversion of earthquake data for 3-D velocity and hypocenters or 3-D Q ![fortran](assets/fortran.png)
 
 ## Structure imaging
