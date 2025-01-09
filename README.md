@@ -22,6 +22,7 @@
   - [Synthetic seismograms](#synthetic-seismograms)
   - [Synthetic travel times, ray parameters and ray paths](#synthetic-travel-times-ray-parameters-and-ray-paths)
   - [Visualisation](#visualisation)
+  - [Wavefield gradients](#wavefield-gradients)
 
 ## Array seismology
 
@@ -31,6 +32,7 @@
 - [covseisnet](https://github.com/covseisnet/covseisnet) - Array covariance matrix analysis ![python](assets/python.png)
 - [EQTransformer](https://github.com/smousavi05/EQTransformer) - AI-based earthquake signal detector and phase picker ![python](assets/python.png)
 - [fast_beamforming](https://github.com/schipp/fast_beamforming) - Fast and efficient beamforming in Python ![python](assets/python.png)
+- [TwistPy](https://twistpy.org) - Toolbox for wavefield inertial sensing techniques ![python](assets/python.png)
 - [Qseek (pyrocko)](https://github.com/pyrocko/qseek) - The friendly earthquake detector ![python](assets/python.png)
 
 ## Earthquake analysis
@@ -160,3 +162,7 @@
 - [GMT](https://www.generic-mapping-tools.org) - Generic Mapping Tools
 - [Paraview](https://www.paraview.org) - The world’s leading open source post-processing visualization engine
 - [Scientific Visualization (open access book)](https://github.com/rougier/scientific-visualization-book)
+
+## Wavefield gradients
+
+- [TwistPy](https://twistpy.org) - Toolbox for wavefield inertial sensing techniques ![python](assets/python.png)
