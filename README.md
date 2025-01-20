@@ -15,12 +15,12 @@
   - [Inversion \& Inference](#inversion--inference)
   - [Machine learning](#machine-learning)
   - [Marine Seismology](#marine-seismology)
+  - [Raytracing](#raytracing)
   - [Seismic data access](#seismic-data-access)
   - [Seismic data handling](#seismic-data-handling)
   - [Seismic interferometry \& ambient noise](#seismic-interferometry--ambient-noise)
   - [Source localisation](#source-localisation)
   - [Synthetic seismograms](#synthetic-seismograms)
-  - [Synthetic travel times, ray parameters and ray paths](#synthetic-travel-times-ray-parameters-and-ray-paths)
   - [Visualisation](#visualisation)
   - [Wavefield gradients](#wavefield-gradients)
 
@@ -99,6 +99,13 @@
 
 - [OCloC (OBS Clock Correction)](https://ocloc.readthedocs.io/en/latest/index.html) - Detect and correct timing errors when using passive seismic records ![python](assets/python.png)
 
+## Raytracing
+
+- [TauP](http://www.seis.sc.edu/taup/) - Seismic travel time calculator ![java](assets/java.png)
+- [Cake (pyrocko)](https://pyrocko.org) - 1D travel-time and ray-path computations ![python](assets/python.png)
+- [scikit-fmm](https://github.com/scikit-fmm/scikit-fmm) - Fast Marching Method for Python ![python](assets/python.png)
+- [pykonal](https://github.com/malcolmw/pykonal) - Fast Marching Method in cartesian or spherical coordinates in 2 or 3 dimensions ![python](assets/python.png)
+
 ## Seismic data access
 
 - [EarthScope](https://ds.iris.edu/ds/nodes/dmc/data/) (formerly IRIS) - Waveform and event data access, US based.
@@ -147,13 +154,6 @@
 - [SeisSol](https://seissol.org) - Software package for simulating wave propagation and dynamic rupture ![cpp](assets/cpp.png)
 - [SPECFEM](https://specfem.org) - Open-source spectral-element method software codes for computational seismology ![fortran](assets/fortran.png) ![c](assets/c.png)
 - [SW4](https://github.com/geodynamics/sw4) - Seismic waves, 4th order accuracy ![fortran](assets/fortran.png) ![cpp](assets/cpp.png)
-
-## Synthetic travel times, ray parameters and ray paths
-
-- [TauP](http://www.seis.sc.edu/taup/) - Seismic travel time calculator ![java](assets/java.png)
-- [Cake (pyrocko)](https://pyrocko.org) - 1D travel-time and ray-path computations ![python](assets/python.png)
-- [scikit-fmm](https://github.com/scikit-fmm/scikit-fmm) - Fast Marching Method for Python ![python](assets/python.png)
-- [pykonal](https://github.com/malcolmw/pykonal) - Fast Marching Method in cartesian or spherical coordinates in 2 or 3 dimensions ![python](assets/python.png)
 
 ## Visualisation
 
