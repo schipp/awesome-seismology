@@ -28,7 +28,7 @@
 ## Array seismology
 
 - [acoular](https://www.acoular.org) - Acoustic testing and source mapping software ![python](assets/python.png)
-- [B3AM](https://github.com/katrinloer/B3AM) / [B3Ampy](https://github.com/cl-finger/B3Ampy) - Toolbox for easy and fast beamforming analysis of three-component array data ![matlab](assets/matlab.png) / ![python](assets/python.png)
+- [B3AM](https://github.com/katrinloer/B3AM) & [B3Ampy](https://github.com/cl-finger/B3Ampy) - Toolbox for easy and fast beamforming analysis of three-component array data ![matlab](assets/matlab.png) & ![python](assets/python.png)
 - [beampower](https://github.com/ebeauce/beampower) - Beamforming (or backprojection) of seismic signal for event detection and location ![python](assets/python.png)
 - [covseisnet](https://github.com/covseisnet/covseisnet) - Array covariance matrix analysis ![python](assets/python.png)
 - [EQTransformer](https://github.com/smousavi05/EQTransformer) - AI-based earthquake signal detector and phase picker ![python](assets/python.png)
@@ -41,7 +41,7 @@
 - [BEAT (pyrocko)](https://pyrocko.org) - Bayesian Earthquake Analysis Tool ![python](assets/python.png)
 - [BPMF](https://github.com/ebeauce/Seismic_BPMF) - Earthquake detection and location with GPU-accelerated processing ![python](assets/python.png)
 - [Earthworm](https://gitlab.com/seismic-software/earthworm/) - Waveform and automatic earthquake processing software ![c](assets/c.png)
-- [focmec](https://seiscode.iris.washington.edu/projects/focmec) - Package for determining and displaying earthquake focal mechanisms
+- [focmec](https://seiscode.iris.washington.edu/projects/focmec) - Package for determining and displaying earthquake focal mechanisms.
 - [HypoDD](https://www.ldeo.columbia.edu/~felixw/hypoDD.html) - Double-difference earthquake location algorithm ![fortran](assets/fortran.png)
 - [NonLinLoc](https://github.com/alomax/NonLinLoc) - Non-Linear locations ![c](assets/c.png)
 - [PhaseNet](https://github.com/AI4EPS/PhaseNet) - Deep-neural-network-based seismic arrival time picking method ![python](assets/python.png)
@@ -139,7 +139,7 @@
 ## Source localisation
 
 - [acoular](https://www.acoular.org) - Acoustic testing and source mapping software ![python](assets/python.png)
-- [B3AM](https://github.com/katrinloer/B3AM) / [B3Ampy](https://github.com/cl-finger/B3Ampy) - Toolbox for easy and fast beamforming analysis of three-component array data ![matlab](assets/matlab.png) / ![python](assets/python.png)
+- [B3AM](https://github.com/katrinloer/B3AM) & [B3Ampy](https://github.com/cl-finger/B3Ampy) - Toolbox for easy and fast beamforming analysis of three-component array data ![matlab](assets/matlab.png) & ![python](assets/python.png)
 - [beampower](https://github.com/ebeauce/beampower) - Beamforming (or backprojection) of seismic signal for event detection and location ![python](assets/python.png)
 - [BPMF](https://github.com/ebeauce/Seismic_BPMF) - Earthquake detection and location with GPU-accelerated processing ![python](assets/python.png)
 - [fast_beamforming](https://github.com/schipp/fast_beamforming) - Fast and efficient beamforming in Python ![python](assets/python.png)
