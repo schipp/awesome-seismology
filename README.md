@@ -1,28 +1,29 @@
-# Awesome Seismology
+# Awesome Seismology [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome tools and resources for seismologists.
 >
 > Is your favourite tool or resource missing? Feel free to open an issue or a pull request!
 
-- [Awesome Seismology](#awesome-seismology)
-  - [Array seismology](#array-seismology)
-  - [Earthquake analysis](#earthquake-analysis)
-  - [Earthquake bulletins/catalogues](#earthquake-bulletinscatalogues)
-  - [Educational resources](#educational-resources)
-  - [Distributed acoustic sensing](#distributed-acoustic-sensing)
-  - [Geodetics](#geodetics)
-  - [Imaging](#imaging)
-  - [Inversion \& Inference](#inversion--inference)
-  - [Machine learning](#machine-learning)
-  - [Marine Seismology](#marine-seismology)
-  - [Raytracing](#raytracing)
-  - [Seismic data access](#seismic-data-access)
-  - [Seismic data handling](#seismic-data-handling)
-  - [Seismic interferometry \& ambient noise](#seismic-interferometry--ambient-noise)
-  - [Source localisation](#source-localisation)
-  - [Synthetic seismograms](#synthetic-seismograms)
-  - [Visualisation](#visualisation)
-  - [Wavefield gradients](#wavefield-gradients)
+## Contents
+
+- [Array seismology](#array-seismology)
+- [Earthquake analysis](#earthquake-analysis)
+- [Earthquake bulletins/catalogues](#earthquake-bulletinscatalogues)
+- [Educational resources](#educational-resources)
+- [Distributed acoustic sensing](#distributed-acoustic-sensing)
+- [Geodetics](#geodetics)
+- [Imaging](#imaging)
+- [Inversion \& Inference](#inversion--inference)
+- [Machine learning](#machine-learning)
+- [Marine Seismology](#marine-seismology)
+- [Raytracing](#raytracing)
+- [Seismic data access](#seismic-data-access)
+- [Seismic data handling](#seismic-data-handling)
+- [Seismic interferometry \& ambient noise](#seismic-interferometry--ambient-noise)
+- [Source localisation](#source-localisation)
+- [Synthetic seismograms](#synthetic-seismograms)
+- [Visualisation](#visualisation)
+- [Wavefield gradients](#wavefield-gradients)
 
 ## Array seismology
 
@@ -53,17 +54,17 @@
 
 ## Earthquake bulletins/catalogues
 
-- [BGR](https://www.szgrf.bgr.de) - Bulletin of the Federal Institute for Geosciences and Natural Resources, Germany
-- [EMSC](https://emsc-csem.org) - Bulletin of the Euro-Mediterranean Seismological Centre
-- [GEOFON](https://geofon.gfz-potsdam.de) - Bulletin of the GeoForschungsZentrum Potsdam, Germany
-- [Geosphere Austria](https://beta.geosphere.at/de/karten/aktuelle-erdbeben#tab=tablemode) - Bulletin of the Geosphere Austria
-- [Global CMT](https://www.globalcmt.org) - Bulletin of the Global Centroid-Moment-Tensor (CMT) Project
-- [IGN](https://www.ign.es/web/en/ign/portal/sis-catalogo-terremotos) - Bulletin of the Instituto Geografico Nacional, Spain
-- [INGV](https://www.ingv.it/en/resources-and-services/environment-earthquakes-and-volcanoes/newsletters) - Bulletin of the Instituto Nazionale Di Geofisicia e Vulcanologia, Italy
-- [ISC](https://www.isc.ac.uk/iscbulletin/) - Bulletin of the International Seismological Centre, UK
-- [ROB](http://seismology.be/en) - Bulletin of the Royal Observatory of Belgium
-- [SED](http://www.seismo.ethz.ch/en/home/) - Bulletin of the Swiss Seismological Service, Switzerland
-- [USGS](https://earthquake.usgs.gov/earthquakes/map/) - Bulletin of the US Geological Survey, USA
+- [BGR](https://www.szgrf.bgr.de) - Bulletin of the Federal Institute for Geosciences and Natural Resources, Germany.
+- [EMSC](https://emsc-csem.org) - Bulletin of the Euro-Mediterranean Seismological Centre.
+- [GEOFON](https://geofon.gfz-potsdam.de) - Bulletin of the GeoForschungsZentrum Potsdam, Germany.
+- [Geosphere Austria](https://beta.geosphere.at/de/karten/aktuelle-erdbeben#tab=tablemode) - Bulletin of the Geosphere Austria.
+- [Global CMT](https://www.globalcmt.org) - Bulletin of the Global Centroid-Moment-Tensor (CMT) Project.
+- [IGN](https://www.ign.es/web/en/ign/portal/sis-catalogo-terremotos) - Bulletin of the Instituto Geografico Nacional, Spain.
+- [INGV](https://www.ingv.it/en/resources-and-services/environment-earthquakes-and-volcanoes/newsletters) - Bulletin of the Instituto Nazionale Di Geofisicia e Vulcanologia, Italy.
+- [ISC](https://www.isc.ac.uk/iscbulletin/) - Bulletin of the International Seismological Centre, UK.
+- [ROB](http://seismology.be/en) - Bulletin of the Royal Observatory of Belgium.
+- [SED](http://www.seismo.ethz.ch/en/home/) - Bulletin of the Swiss Seismological Service, Switzerland.
+- [USGS](https://earthquake.usgs.gov/earthquakes/map/) - Bulletin of the US Geological Survey, USA.
 
 ## Educational resources
 
@@ -121,8 +122,8 @@
 - [ObsPy](https://github.com/obspy/obspy/wiki/) - Python framework for processing seismological data ![python](assets/python.png)
 - [Pyrocko](https://pyrocko.org) - Open source seismology toolbox and library ![python](assets/python.png)
 - [SeisComP](https://www.seiscomp.de) - Seismological software for data acquisition, processing, distribution and interactive analysis ![cpp](assets/cpp.png)
-- [Seismic Handler](https://www.seismic-handler.org) - Powerful seismic waveform analysis tool
-- [Seismic Unix](https://github.com/JohnWStockwellJr/SeisUnix) - Seismic processing, research, and educational software package
+- [Seismic Handler](https://www.seismic-handler.org) - Powerful seismic waveform analysis tool.
+- [Seismic Unix](https://github.com/JohnWStockwellJr/SeisUnix) - Seismic processing, research, and educational software package.
 - [Seis.jl](https://github.com/anowacki/Seis.jl) - Open, fast and flexible framework for analysing seismic data in Julia ![julia](assets/julia.png)
 
 ## Seismic interferometry & ambient noise
@@ -130,7 +131,7 @@
 - [MSNoise](http://www.msnoise.org) - Python package for monitoring using ambient seismic noise ![python](assets/python.png)
 - [NoisePy](https://github.com/noisepy/NoisePy) - Fast and easy computation of ambient noise cross-correlation functions ![python](assets/python.png)
 - [noisi](https://github.com/lermert/noisi) - Ambient noise cross-correlation modeling and inversion ![python](assets/python.png)
-- [SANS](https://sans.ethz.ch) - Seismic ambient noise source maps
+- [SANS](https://sans.ethz.ch) - Seismic ambient noise source maps.
 - [SeisNoise.jl](https://github.com/JuliaSeismo/SeisNoise.jl) - Fast and easy ambient noise cross-correlation in Julia ![julia](assets/julia.png)
 - [SeisMIC](https://github.com/PeterMakus/SeisMIC) - Seismological monitoring using interferometric concepts ![python](assets/python.png)
 - [WMSAN](https://tomasetl.gricad-pages.univ-grenoble-alpes.fr/ww3-source-maps/) - Wave model sources of ambient noise ![python](assets/python.png)
@@ -150,7 +151,7 @@
 
 - [AxiSEM](https://github.com/geodynamics/axisem) - Axially symmetric Spectral Element Method ![fortran](assets/fortran.png)
 - [Axitra](https://github.com/coutanto/axitra) - Seismograms in 3D plane layered medium ![fortran](assets/fortran.png) ![python](assets/python.png)
-- [Computer Programs in Seismology](https://github.com/rbherrmann/ComputerProgramsSeismology) - Package of programs for making synthetic seismograms
+- [Computer Programs in Seismology](https://github.com/rbherrmann/ComputerProgramsSeismology) - Package of programs for making synthetic seismograms.
 - [Fomosto (pyrocko)](https://pyrocko.org) - Calculate and manage Green’s function databases ![python](assets/python.png)
 - [instaseis](https://instaseis.net) - Instant global seismograms based on a broadband waveform database ![python](assets/python.png)
 - [noisi](https://github.com/lermert/noisi) - Ambient noise cross-correlation modeling and inversion ![python](assets/python.png)
@@ -162,11 +163,11 @@
 ## Visualisation
 
 - [cartopy](https://scitools.org.uk/cartopy/docs/latest/) - Maps for matplotlib ![python](assets/python.png)
-- [cmcrameri](https://www.fabiocrameri.ch/colourmaps/) - Scientific colour maps
-- [cmocean](https://matplotlib.org/cmocean/) - Beautiful colormaps for oceanography
-- [GMT](https://www.generic-mapping-tools.org) - Generic Mapping Tools
-- [Paraview](https://www.paraview.org) - The world’s leading open source post-processing visualization engine
-- [Scientific Visualization (open access book)](https://github.com/rougier/scientific-visualization-book)
+- [cmcrameri](https://www.fabiocrameri.ch/colourmaps/) - Scientific colour maps.
+- [cmocean](https://matplotlib.org/cmocean/) - Beautiful colormaps.
+- [GMT](https://www.generic-mapping-tools.org) - Generic Mapping Tools.
+- [Paraview](https://www.paraview.org) - The world's leading open source post-processing visualization engine.
+- [Scientific Visualization](https://github.com/rougier/scientific-visualization-book) -  Open access book.
 
 ## Wavefield gradients
 
