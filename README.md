@@ -1,8 +1,6 @@
 # Awesome Seismology [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome tools and resources for seismologists.
->
-> Is your favourite tool or resource missing? Feel free to open an issue or a pull request!
+A curated list of awesome tools and resources for seismologists.
 
 ## Contents
 
