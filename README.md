@@ -152,10 +152,10 @@
 - [AxiSEM](https://github.com/geodynamics/axisem) - Axially symmetric Spectral Element Method ![fortran](assets/fortran.png)
 - [Axitra](https://github.com/coutanto/axitra) - Seismograms in 3D plane layered medium ![fortran](assets/fortran.png) ![python](assets/python.png)
 - [Computer Programs in Seismology](https://github.com/rbherrmann/ComputerProgramsSeismology) - Package of programs for making synthetic seismograms.
-- [Fomosto (pyrocko)](https://pyrocko.org) - Calculate and manage Green’s function databases ![python](assets/python.png)
+- [Fomosto (pyrocko)](https://pyrocko.org) - Calculate and manage Green's function databases ![python](assets/python.png)
 - [instaseis](https://instaseis.net) - Instant global seismograms based on a broadband waveform database ![python](assets/python.png)
 - [noisi](https://github.com/lermert/noisi) - Ambient noise cross-correlation modeling and inversion ![python](assets/python.png)
-- [Salvus](https://mondaic.com) - Proprietary waveform simulations and inversions
+- [Salvus](https://mondaic.com) - Proprietary waveform simulations and inversions.
 - [SeisSol](https://seissol.org) - Software package for simulating wave propagation and dynamic rupture ![cpp](assets/cpp.png)
 - [SPECFEM](https://specfem.org) - Open-source spectral-element method software codes for computational seismology ![fortran](assets/fortran.png) ![c](assets/c.png)
 - [SW4](https://github.com/geodynamics/sw4) - Seismic waves, 4th order accuracy ![fortran](assets/fortran.png) ![cpp](assets/cpp.png)
