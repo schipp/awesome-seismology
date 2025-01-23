@@ -154,6 +154,7 @@ A curated list of awesome tools and resources for seismologists.
 - [Computer Programs in Seismology](https://github.com/rbherrmann/ComputerProgramsSeismology) - Package of programs for making synthetic seismograms.
 - [Fomosto (pyrocko)](https://pyrocko.org) - Calculate and manage Green's function databases ![python](assets/python.png)
 - [instaseis](https://instaseis.net) - Instant global seismograms based on a broadband waveform database ![python](assets/python.png)
+- [Mineos](https://github.com/geodynamics/mineos) - Compute synthetic seismograms in a spherically symmetric non-rotating Earth by summing normal modes ![fortran](assets/fortran.png)
 - [noisi](https://github.com/lermert/noisi) - Ambient noise cross-correlation modeling and inversion ![python](assets/python.png)
 - [Salvus](https://mondaic.com) - Proprietary waveform simulations and inversions.
 - [SeisSol](https://seissol.org) - Software package for simulating wave propagation and dynamic rupture ![cpp](assets/cpp.png)
