@@ -97,6 +97,7 @@ A curated list of awesome tools and resources for seismologists.
 - [EQTransformer](https://github.com/smousavi05/EQTransformer) - AI-based earthquake signal detector and phase picker ![python](assets/python.png)
 - [PhaseNet](https://github.com/AI4EPS/PhaseNet) - Deep-neural-network-based seismic arrival time picking method ![python](assets/python.png)
 - [SeisBench](https://github.com/seisbench/seisbench) - Python toolbox for machine learning in seismology ![python](assets/python.png)
+- [scatseisnet](https://github.com/scatseisnet/scatseisnet) - Transform time series into scattering coefficients with a scattering network ![python](assets/python.png)
 
 ## Marine Seismology
 
