@@ -28,7 +28,7 @@ A curated list of awesome tools and resources for seismologists.
 - [acoular](https://www.acoular.org) - Acoustic testing and source mapping software ![python](assets/python.png)
 - [B3AM](https://github.com/katrinloer/B3AM) & [B3Ampy](https://github.com/cl-finger/B3Ampy) - Toolbox for easy and fast beamforming analysis of three-component array data ![matlab](assets/matlab.png) & ![python](assets/python.png)
 - [beampower](https://github.com/ebeauce/beampower) - Beamforming (or backprojection) of seismic signal for event detection and location ![python](assets/python.png)
-- [covseisnet](https://github.com/covseisnet/covseisnet) - Array covariance matrix analysis ![python](assets/python.png)
+- [covseisnet](https://github.com/leonard-seydoux/covseisnet) - Array covariance matrix analysis ![python](assets/python.png)
 - [EQTransformer](https://github.com/smousavi05/EQTransformer) - AI-based earthquake signal detector and phase picker ![python](assets/python.png)
 - [fast_beamforming](https://github.com/schipp/fast_beamforming) - Fast and efficient beamforming in Python ![python](assets/python.png)
 - [TwistPy](https://twistpy.org) - Toolbox for wavefield inertial sensing techniques ![python](assets/python.png)
