@@ -148,7 +148,8 @@ A curated list of awesome tools and resources for seismologists.
 
 ## Synthetic seismograms
 
-- [AxiSEM](https://github.com/geodynamics/axisem) - Axially symmetric Spectral Element Method ![fortran](assets/fortran.png)
+- [AxiSEM](https://github.com/geodynamics/axisem) - Axially symmetric Spectral Element Method (2.5D) ![fortran](assets/fortran.png)
+- [AxiSEM3D](https://github.com/AxiSEMunity/AxiSEM3D) - Axially symmetric Spectral Element Method (3D) ![cpp](assets/cpp.png)
 - [Axitra](https://github.com/coutanto/axitra) - Seismograms in 3D plane layered medium ![fortran](assets/fortran.png) ![python](assets/python.png)
 - [Computer Programs in Seismology](https://github.com/rbherrmann/ComputerProgramsSeismology) - Package of programs for making synthetic seismograms.
 - [Fomosto (pyrocko)](https://pyrocko.org) - Calculate and manage Green's function databases ![python](assets/python.png)
