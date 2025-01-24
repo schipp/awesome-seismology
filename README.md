@@ -94,14 +94,18 @@ A curated list of awesome tools and resources for seismologists.
 ## Machine learning
 
 - [DeepDenoiser](https://github.com/AI4EPS/DeepDenoiser) - Seismic signal denoising and decomposition using deep neural networks ![python](assets/python.png)
-- [EQTransformer](https://github.com/smousavi05/EQTransformer) - AI-based earthquake signal detector and phase picker ![python](assets/python.png)
-- [PhaseNet](https://github.com/AI4EPS/PhaseNet) - Deep-neural-network-based seismic arrival time picking method ![python](assets/python.png)
 - [SeisBench](https://github.com/seisbench/seisbench) - Python toolbox for machine learning in seismology ![python](assets/python.png)
 - [scatseisnet](https://github.com/scatseisnet/scatseisnet) - Transform time series into scattering coefficients with a scattering network ![python](assets/python.png)
 
-## Marine Seismology
+## Marine seismology
 
 - [OCloC (OBS Clock Correction)](https://ocloc.readthedocs.io/en/latest/index.html) - Detect and correct timing errors when using passive seismic records ![python](assets/python.png)
+
+## Phase picking and association
+
+- [EQTransformer](https://github.com/smousavi05/EQTransformer) - AI-based earthquake signal detector and phase picker ![python](assets/python.png)
+- [GaMMA](https://github.com/AI4EPS/GaMMA) - Gaussian Mixture Model Associator ![python](assets/python.png)
+- [PhaseNet](https://github.com/AI4EPS/PhaseNet) - Deep-neural-network-based seismic arrival time picking method ![python](assets/python.png)
 
 ## Raytracing
 
@@ -114,6 +118,7 @@ A curated list of awesome tools and resources for seismologists.
 
 - [EarthScope](https://ds.iris.edu/ds/nodes/dmc/data/) (formerly IRIS) - Waveform and event data access, US based.
 - [EIDA (ORFEUS)](https://orfeus-eu.org/data/eida/) - Waveform and event data access, EU based.
+- [STEAD](https://github.com/smousavi05/STEAD) - STanford EArthquake Dataset (STEAD):A Global Data Set of Seismic Signals for AI.
 
 ## Seismic data handling
 
@@ -125,7 +130,7 @@ A curated list of awesome tools and resources for seismologists.
 - [Seismic Unix](https://github.com/JohnWStockwellJr/SeisUnix) - Seismic processing, research, and educational software package.
 - [Seis.jl](https://github.com/anowacki/Seis.jl) - Open, fast and flexible framework for analysing seismic data in Julia ![julia](assets/julia.png)
 
-## Seismic interferometry & ambient noise
+## Seismic interferometry and ambient noise
 
 - [MSNoise](http://www.msnoise.org) - Python package for monitoring using ambient seismic noise ![python](assets/python.png)
 - [NoisePy](https://github.com/noisepy/NoisePy) - Fast and easy computation of ambient noise cross-correlation functions ![python](assets/python.png)
