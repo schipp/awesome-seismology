@@ -5,7 +5,6 @@ A curated list of awesome tools and resources for seismologists.
 ## Contents
 
 - [Array seismology](#array-seismology)
-- [Earthquake analysis](#earthquake-analysis)
 - [Earthquake bulletins/catalogues](#earthquake-bulletinscatalogues)
 - [Educational resources](#educational-resources)
 - [Distributed acoustic sensing](#distributed-acoustic-sensing)
@@ -14,11 +13,13 @@ A curated list of awesome tools and resources for seismologists.
 - [Inversion \& Inference](#inversion--inference)
 - [Machine learning](#machine-learning)
 - [Marine Seismology](#marine-seismology)
+- [Observatory software](#observatory-software)
+- [Phase picking and association](#phase-picking-and-association)
 - [Raytracing](#raytracing)
 - [Seismic data access](#seismic-data-access)
 - [Seismic data handling](#seismic-data-handling)
-- [Seismic interferometry \& ambient noise](#seismic-interferometry--ambient-noise)
-- [Source localisation](#source-localisation)
+- [Seismic interferometry and ambient noise](#seismic-interferometry-and-ambient-noise)
+- [Source parameter estimation](#source-parameter-estimation)
 - [Synthetic seismograms](#synthetic-seismograms)
 - [Visualisation](#visualisation)
 - [Wavefield gradients](#wavefield-gradients)
@@ -32,23 +33,6 @@ A curated list of awesome tools and resources for seismologists.
 - [EQTransformer](https://github.com/smousavi05/EQTransformer) - AI-based earthquake signal detector and phase picker ![python](assets/python.png)
 - [fast_beamforming](https://github.com/schipp/fast_beamforming) - Fast and efficient beamforming in Python ![python](assets/python.png)
 - [TwistPy](https://twistpy.org) - Toolbox for wavefield inertial sensing techniques ![python](assets/python.png)
-
-## Earthquake analysis
-
-- [Grond (pyrocko)](https://pyrocko.org) - Probabilistic source optimization ![python](assets/python.png)
-- [BEAT (pyrocko)](https://pyrocko.org) - Bayesian Earthquake Analysis Tool ![python](assets/python.png)
-- [BPMF](https://github.com/ebeauce/Seismic_BPMF) - Earthquake detection and location with GPU-accelerated processing ![python](assets/python.png)
-- [Earthworm](https://gitlab.com/seismic-software/earthworm/) - Waveform and automatic earthquake processing software ![c](assets/c.png)
-- [focmec](https://seiscode.iris.washington.edu/projects/focmec) - Package for determining and displaying earthquake focal mechanisms.
-- [HypoDD](https://www.ldeo.columbia.edu/~felixw/hypoDD.html) - Double-difference earthquake location algorithm ![fortran](assets/fortran.png)
-- [NonLinLoc](https://github.com/alomax/NonLinLoc) - Non-Linear locations ![c](assets/c.png)
-- [PhaseNet](https://github.com/AI4EPS/PhaseNet) - Deep-neural-network-based seismic arrival time picking method ![python](assets/python.png)
-- [PyOcto](https://github.com/yetinam/pyocto) - High-throughput seismic phase associator ![python](assets/python.png)
-- [Qseek (pyrocko)](https://github.com/pyrocko/qseek) - The friendly earthquake detector ![python](assets/python.png)
-- [SEISAN](https://seisan.info) - Earthquake analysis software ![fortran](assets/fortran.png)
-- [SeisComP](https://www.seiscomp.de) - Seismological software for data acquisition, processing, distribution and interactive analysis ![cpp](assets/cpp.png)
-- [SeisSol](https://seissol.org) - Software package for simulating wave propagation and dynamic rupture ![cpp](assets/cpp.png)
-- [Simul2023](https://zenodo.org/records/10695070) - inversion of earthquake data for 3-D velocity and hypocenters or 3-D Q ![fortran](assets/fortran.png)
 
 ## Earthquake bulletins/catalogues
 
@@ -101,11 +85,19 @@ A curated list of awesome tools and resources for seismologists.
 
 - [OCloC (OBS Clock Correction)](https://ocloc.readthedocs.io/en/latest/index.html) - Detect and correct timing errors when using passive seismic records ![python](assets/python.png)
 
+## Observatory software
+
+- [Earthworm](https://gitlab.com/seismic-software/earthworm/) - Waveform and automatic earthquake processing software ![c](assets/c.png)
+- [SEISAN](https://seisan.info) - Earthquake analysis software ![fortran](assets/fortran.png)
+- [SeisComP](https://www.seiscomp.de) - Seismological software for data acquisition, processing, distribution and interactive analysis ![cpp](assets/cpp.png)
+
 ## Phase picking and association
 
 - [EQTransformer](https://github.com/smousavi05/EQTransformer) - AI-based earthquake signal detector and phase picker ![python](assets/python.png)
 - [GaMMA](https://github.com/AI4EPS/GaMMA) - Gaussian Mixture Model Associator ![python](assets/python.png)
+- [OBSTransformer](https://github.com/alirezaniki/OBSTransformer) - A Deep Learning Seismic Phase Picker for OBS Data ![python](assets/python.png)
 - [PhaseNet](https://github.com/AI4EPS/PhaseNet) - Deep-neural-network-based seismic arrival time picking method ![python](assets/python.png)
+- [PyOcto](https://github.com/yetinam/pyocto) - High-throughput seismic phase associator ![python](assets/python.png)
 
 ## Raytracing
 
@@ -140,15 +132,15 @@ A curated list of awesome tools and resources for seismologists.
 - [SeisMIC](https://github.com/PeterMakus/SeisMIC) - Seismological monitoring using interferometric concepts ![python](assets/python.png)
 - [WMSAN](https://tomasetl.gricad-pages.univ-grenoble-alpes.fr/ww3-source-maps/) - Wave model sources of ambient noise ![python](assets/python.png)
 
-## Source localisation
+## Source parameter estimation
 
-- [acoular](https://www.acoular.org) - Acoustic testing and source mapping software ![python](assets/python.png)
-- [B3AM](https://github.com/katrinloer/B3AM) & [B3Ampy](https://github.com/cl-finger/B3Ampy) - Toolbox for easy and fast beamforming analysis of three-component array data ![matlab](assets/matlab.png) & ![python](assets/python.png)
-- [beampower](https://github.com/ebeauce/beampower) - Beamforming (or backprojection) of seismic signal for event detection and location ![python](assets/python.png)
+- [Grond (pyrocko)](https://pyrocko.org/grond) - Probabilistic source optimization ![python](assets/python.png)
+- [BEAT (pyrocko)](https://pyrocko.org/beat) - Bayesian Earthquake Analysis Tool ![python](assets/python.png)
 - [BPMF](https://github.com/ebeauce/Seismic_BPMF) - Earthquake detection and location with GPU-accelerated processing ![python](assets/python.png)
-- [fast_beamforming](https://github.com/schipp/fast_beamforming) - Fast and efficient beamforming in Python ![python](assets/python.png)
+- [focmec](https://seiscode.iris.washington.edu/projects/focmec) - Package for determining and displaying earthquake focal mechanisms.
 - [HypoDD](https://www.ldeo.columbia.edu/~felixw/hypoDD.html) - Double-difference earthquake location algorithm ![fortran](assets/fortran.png)
 - [NonLinLoc](https://github.com/alomax/NonLinLoc) - Non-Linear locations ![c](assets/c.png)
+- [Qseek (pyrocko)](https://github.com/pyrocko/qseek) - The friendly earthquake detector ![python](assets/python.png)
 - [Simul2023](https://zenodo.org/records/10695070) - inversion of earthquake data for 3-D velocity and hypocenters or 3-D Q ![fortran](assets/fortran.png)
 
 ## Synthetic seismograms
