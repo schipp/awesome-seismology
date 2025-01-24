@@ -108,6 +108,7 @@ A curated list of awesome tools and resources for seismologists.
 
 - [EarthScope](https://ds.iris.edu/ds/nodes/dmc/data/) (formerly IRIS) - Waveform and event data access, US based.
 - [EIDA (ORFEUS)](https://orfeus-eu.org/data/eida/) - Waveform and event data access, EU based.
+- [FDSN network codes](https://www.fdsn.org/networks/) - List of all seismic network codes assigned by the FDSN.
 - [STEAD](https://github.com/smousavi05/STEAD) - STanford EArthquake Dataset (STEAD):A Global Data Set of Seismic Signals for AI.
 
 ## Seismic data handling
