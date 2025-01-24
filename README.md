@@ -7,7 +7,7 @@ A curated list of awesome tools and resources for seismologists.
 - [Array seismology](#array-seismology)
 - [Earthquake bulletins/catalogues](#earthquake-bulletinscatalogues)
 - [Educational resources](#educational-resources)
-- [Distributed acoustic sensing](#distributed-acoustic-sensing)
+- [Fibre optic sensing](#fibre-optic-sensing)
 - [Geodetics](#geodetics)
 - [Imaging](#imaging)
 - [Inversion \& Inference](#inversion--inference)
@@ -52,7 +52,7 @@ A curated list of awesome tools and resources for seismologists.
 
 - [seismo-live](https://seismo-live.github.io) - Live jupyter notebooks for seismology ![python](assets/python.png)
 
-## Distributed acoustic sensing
+## Fibre optic sensing
 
 - [awesome-das](https://github.com/DAS-RCN/awesome-das) - Curated list of awesome resources for distributed acoustic sensing (DAS).
 - [DASCore](https://dascore.netlify.app) - Python library for distributed fiber optic sensing ![python](assets/python.png)
