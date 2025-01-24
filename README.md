@@ -12,7 +12,7 @@ A curated list of awesome tools and resources for seismologists.
 - [Imaging](#imaging)
 - [Inversion \& Inference](#inversion--inference)
 - [Machine learning](#machine-learning)
-- [Marine Seismology](#marine-seismology)
+- [Marine seismology](#marine-seismology)
 - [Observatory software](#observatory-software)
 - [Phase picking and association](#phase-picking-and-association)
 - [Raytracing](#raytracing)
@@ -30,7 +30,6 @@ A curated list of awesome tools and resources for seismologists.
 - [B3AM](https://github.com/katrinloer/B3AM) & [B3Ampy](https://github.com/cl-finger/B3Ampy) - Toolbox for easy and fast beamforming analysis of three-component array data ![matlab](assets/matlab.png) & ![python](assets/python.png)
 - [beampower](https://github.com/ebeauce/beampower) - Beamforming (or backprojection) of seismic signal for event detection and location ![python](assets/python.png)
 - [covseisnet](https://github.com/leonard-seydoux/covseisnet) - Array covariance matrix analysis ![python](assets/python.png)
-- [EQTransformer](https://github.com/smousavi05/EQTransformer) - AI-based earthquake signal detector and phase picker ![python](assets/python.png)
 - [fast_beamforming](https://github.com/schipp/fast_beamforming) - Fast and efficient beamforming in Python ![python](assets/python.png)
 - [TwistPy](https://twistpy.org) - Toolbox for wavefield inertial sensing techniques ![python](assets/python.png)
 
@@ -63,7 +62,6 @@ A curated list of awesome tools and resources for seismologists.
 
 ## Imaging
 
-- [BayesBay](https://github.com/fmagrini/bayes-bay) - Generalised trans-dimensional and hierarchical Bayesian inference ![python](assets/python.png)
 - [MSNoise-Tomo](https://github.com/ThomasLecocq/msnoise-tomo) - Plugin to the MSNoise framework for 2D tomography ![python](assets/python.png)
 - [PyGLImER](https://github.com/PyGLImER/PyGLImER) - Workflow to create a global database for Ps and Sp receiver function imaging ![python](assets/python.png)
 - [SeisLib](https://github.com/fmagrini/seislib) - Python package that allows for obtaining seismic images of the sub-surface ![python](assets/python.png)
@@ -73,7 +71,6 @@ A curated list of awesome tools and resources for seismologists.
 - [BayesBay](https://github.com/fmagrini/bayes-bay) - Generalised trans-dimensional and hierarchical Bayesian inference ![python](assets/python.png)
 - [GeoBED](https://github.com/dominik-strutz/GeoBED) - Optimal experimental design tailored to geoscientific applications ![python](assets/python.png)
 - [pyGIMLi](https://www.pygimli.org) - Multi-method modelling and inversion in geophysics ![python](assets/python.png)
-- [Simul2023](https://zenodo.org/records/10695070) - flexible program for inversion of earthquake data for 3-D velocity and hypocenters or 3-D Q ![fortran](assets/fortran.png)
 
 ## Machine learning
 
@@ -102,7 +99,7 @@ A curated list of awesome tools and resources for seismologists.
 ## Raytracing
 
 - [TauP](http://www.seis.sc.edu/taup/) - Seismic travel time calculator ![java](assets/java.png)
-- [Cake (pyrocko)](https://pyrocko.org) - 1D travel-time and ray-path computations ![python](assets/python.png)
+- [Cake (pyrocko)](https://pyrocko.org/docs/current/apps/cake/) - 1D travel-time and ray-path computations ![python](assets/python.png)
 - [scikit-fmm](https://github.com/scikit-fmm/scikit-fmm) - Fast Marching Method for Python ![python](assets/python.png)
 - [pykonal](https://github.com/malcolmw/pykonal) - Fast Marching Method in cartesian or spherical coordinates in 2 or 3 dimensions ![python](assets/python.png)
 
@@ -147,10 +144,9 @@ A curated list of awesome tools and resources for seismologists.
 - [AxiSEM3D](https://github.com/AxiSEMunity/AxiSEM3D) - Axially symmetric Spectral Element Method (3D) ![cpp](assets/cpp.png)
 - [Axitra](https://github.com/coutanto/axitra) - Seismograms in 3D plane layered medium ![fortran](assets/fortran.png) ![python](assets/python.png)
 - [Computer Programs in Seismology](https://github.com/rbherrmann/ComputerProgramsSeismology) - Package of programs for making synthetic seismograms.
-- [Fomosto (pyrocko)](https://pyrocko.org) - Calculate and manage Green's function databases ![python](assets/python.png)
+- [Fomosto (pyrocko)](https://pyrocko.org/docs/current/apps/fomosto/) - Calculate and manage Green's function databases ![python](assets/python.png)
 - [instaseis](https://instaseis.net) - Instant global seismograms based on a broadband waveform database ![python](assets/python.png)
 - [Mineos](https://github.com/geodynamics/mineos) - Compute synthetic seismograms in a spherically symmetric non-rotating Earth by summing normal modes ![fortran](assets/fortran.png)
-- [noisi](https://github.com/lermert/noisi) - Ambient noise cross-correlation modeling and inversion ![python](assets/python.png)
 - [Salvus](https://mondaic.com) - Proprietary waveform simulations and inversions.
 - [SeisSol](https://seissol.org) - Software package for simulating wave propagation and dynamic rupture ![cpp](assets/cpp.png)
 - [SPECFEM](https://specfem.org) - Open-source spectral-element method software codes for computational seismology ![fortran](assets/fortran.png) ![c](assets/c.png)
@@ -164,7 +160,3 @@ A curated list of awesome tools and resources for seismologists.
 - [GMT](https://www.generic-mapping-tools.org) - Generic Mapping Tools.
 - [Paraview](https://www.paraview.org) - The world's leading open source post-processing visualization engine.
 - [Scientific Visualization](https://github.com/rougier/scientific-visualization-book) -  Open access book.
-
-## Wavefield gradients
-
-- [TwistPy](https://twistpy.org) - Toolbox for wavefield inertial sensing techniques ![python](assets/python.png)
