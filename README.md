@@ -22,7 +22,6 @@ A curated list of awesome tools and resources for seismologists.
 - [Source parameter estimation](#source-parameter-estimation)
 - [Synthetic seismograms](#synthetic-seismograms)
 - [Visualisation](#visualisation)
-- [Wavefield gradients](#wavefield-gradients)
 
 ## Array seismology
 
