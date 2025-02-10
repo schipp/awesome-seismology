@@ -86,6 +86,7 @@ A curated list of awesome tools and resources for seismologists.
 
 ## Observatory software
 
+- [Antelope](https://brtt.com) - Real time Earth monitoring for a dynamic world.
 - [Earthworm](https://gitlab.com/seismic-software/earthworm/) - Waveform and automatic earthquake processing software. ![c](assets/c.png)
 - [SEISAN](https://seisan.info) - Earthquake analysis software. ![fortran](assets/fortran.png)
 - [SeisComP](https://www.seiscomp.de) - Seismological software for data acquisition, processing, distribution and interactive analysis. ![cpp](assets/cpp.png)
