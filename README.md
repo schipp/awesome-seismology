@@ -1,6 +1,6 @@
 # Awesome Seismology [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome tools and resources for seismologists.
+Earthquakes, Earth's Structure, and related methodology.
 
 ## Contents
 
