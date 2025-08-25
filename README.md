@@ -12,7 +12,7 @@ Earthquakes, Earth's structure, and related methodology.
 - [Inversion \& Inference](#inversion--inference)
 - [Machine learning](#machine-learning)
 - [Marine seismology](#marine-seismology)
-- [Observatory software](#observatory-software)
+- [Observatory operation](#observatory-operation)
 - [Phase picking and association](#phase-picking-and-association)
 - [Raytracing](#raytracing)
 - [Seismic data access](#seismic-data-access)
@@ -78,7 +78,7 @@ Earthquakes, Earth's structure, and related methodology.
 
 - [OCloC (OBS Clock Correction)](https://ocloc.readthedocs.io/en/latest/index.html) - Detect and correct timing errors when using passive seismic records. ![python](assets/python.png)
 
-## Observatory software
+## Observatory operation
 
 - [Antelope](https://brtt.com) - Real time Earth monitoring for a dynamic world.
 - [Earthworm](https://gitlab.com/seismic-software/earthworm/) - Waveform and automatic earthquake processing software. ![c](assets/c.png)
