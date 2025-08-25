@@ -1,6 +1,6 @@
 # Awesome Seismology [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Earthquakes, Earth's Structure, and related methodology.
+Earthquakes, Earth's structure, and related methodology.
 
 ## Contents
 
