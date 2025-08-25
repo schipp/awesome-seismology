@@ -111,7 +111,6 @@ Earthquakes, Earth's structure, and related methodology.
 
 - [ObsPy](https://github.com/obspy/obspy/wiki/) - Python framework for processing seismological data. ![python](assets/python.png)
 - [Pyrocko](https://pyrocko.org) - Open source seismology toolbox and library. ![python](assets/python.png)
-- [Seismic Handler](https://www.seismic-handler.org) - Powerful seismic waveform analysis tool.
 - [Seismic Unix](https://github.com/JohnWStockwellJr/SeisUnix) - Seismic processing, research, and educational software package.
 - [Seis.jl](https://github.com/anowacki/Seis.jl) - Open, fast and flexible framework for analysing seismic data in Julia. ![julia](assets/julia.png)
 
