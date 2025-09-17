@@ -133,7 +133,7 @@ Earthquakes, Earth's structure, and related methodology.
 - [BEAT (pyrocko)](https://pyrocko.org/beat) - Bayesian Earthquake Analysis Tool. ![python](assets/python.png)
 - [BPMF](https://github.com/ebeauce/Seismic_BPMF) - Earthquake detection and location with GPU-accelerated processing. ![python](assets/python.png)
 - [focmec](https://seiscode.iris.washington.edu/projects/focmec) - Package for determining and displaying earthquake focal mechanisms.
-- [GrowClust3D](https://github.com/dttrugman/GrowClust3D.jl) - Relative relocation of earthquake hypocenters based on waveform cross-correlation data ![julia](assets/julia.png)
+- [GrowClust3D](https://github.com/dttrugman/GrowClust3D.jl) - Relative relocation of earthquake hypocenters based on waveform cross-correlation data. ![julia](assets/julia.png)
 - [HypoDD](https://www.ldeo.columbia.edu/~felixw/hypoDD.html) - Double-difference earthquake location algorithm ![fortran](assets/fortran.png)
 - [NonLinLoc](https://github.com/alomax/NonLinLoc) - Non-Linear locations. ![c](assets/c.png)
 - [Qseek (pyrocko)](https://github.com/pyrocko/qseek) - The friendly earthquake detector. ![python](assets/python.png)
