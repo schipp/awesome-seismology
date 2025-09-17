@@ -148,7 +148,6 @@ Earthquakes, Earth's structure, and related methodology.
 - [instaseis](https://instaseis.net) - Instant global seismograms based on a broadband waveform database. ![python](assets/python.png)
 - [Mineos](https://github.com/geodynamics/mineos) - Compute synthetic seismograms in a spherically symmetric non-rotating Earth by summing normal modes. ![fortran](assets/fortran.png)
 - [PyFK](https://github.com/ziyixi/pyfk) - Python port of FK used to calculate the Green's function and the synthetic waveforms for the 1D Earth model. ![python](assets/python.png)
-- [Salvus](https://mondaic.com) - Proprietary waveform simulations and inversions.
 - [SeisSol](https://seissol.org) - Software package for simulating wave propagation and dynamic rupture. ![cpp](assets/cpp.png)
 - [SPECFEM](https://specfem.org) - Open-source spectral-element method software codes for computational seismology. ![fortran](assets/fortran.png) ![c](assets/c.png)
 - [SW4](https://github.com/geodynamics/sw4) - Seismic waves, 4th order accuracy. ![fortran](assets/fortran.png) ![cpp](assets/cpp.png)
