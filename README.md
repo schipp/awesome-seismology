@@ -144,6 +144,7 @@ Earthquakes, Earth's structure, and related methodology.
 - [AxiSEM3D](https://github.com/AxiSEMunity/AxiSEM3D) - Axially symmetric Spectral Element Method (3D). ![cpp](assets/cpp.png)
 - [Axitra](https://github.com/coutanto/axitra) - Seismograms in 3D plane layered medium. ![fortran](assets/fortran.png) ![python](assets/python.png)
 - [Computer Programs in Seismology](https://github.com/rbherrmann/ComputerProgramsSeismology) - Package of programs for making synthetic seismograms.
+- [disba](https://github.com/keurfonluu/disba) - Surface wave dispersion modeling ![python](assets/python.png)
 - [Fomosto (pyrocko)](https://pyrocko.org/docs/current/apps/fomosto/) - Calculate and manage Green's function databases. ![python](assets/python.png)
 - [instaseis](https://instaseis.net) - Instant global seismograms based on a broadband waveform database. ![python](assets/python.png)
 - [Mineos](https://github.com/geodynamics/mineos) - Compute synthetic seismograms in a spherically symmetric non-rotating Earth by summing normal modes. ![fortran](assets/fortran.png)
