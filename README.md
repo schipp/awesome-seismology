@@ -77,6 +77,7 @@ Earthquakes, Earth's structure, and related methodology.
 
 ## Marine seismology
 
+- [OBSTools](https://github.com/nfsi-canada/OBStools) - Processing broadband ocean-bottom seismic data. ![python](assets/python.png)
 - [OCloC (OBS Clock Correction)](https://ocloc.readthedocs.io/en/latest/index.html) - Detect and correct timing errors when using passive seismic records. ![python](assets/python.png)
 
 ## Observatory operation
