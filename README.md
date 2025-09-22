@@ -125,7 +125,7 @@ Earthquakes, Earth's structure, and related methodology.
 - [SANS](https://sans.ethz.ch) - Seismic ambient noise source maps.
 - [SeisNoise.jl](https://github.com/JuliaSeismo/SeisNoise.jl) - Fast and easy ambient noise cross-correlation. ![julia](assets/julia.png)
 - [SeisMIC](https://github.com/PeterMakus/SeisMIC) - Seismological monitoring using interferometric concepts. ![python](assets/python.png)
-- [WMSAN](https://tomasetl.gricad-pages.univ-grenoble-alpes.fr/ww3-source-maps/) - Wave model sources of ambient noise. ![python](assets/python.png)
+- [WMSAN](https://github.com/lystom/WMSAN) - Wave model sources of ambient noise. ![python](assets/python.png)
 
 ## Source parameter estimation
 
