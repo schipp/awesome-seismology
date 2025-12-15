@@ -114,9 +114,9 @@ Earthquakes, Earth's structure, and related methodology.
 - [ObsPy](https://github.com/obspy/obspy/wiki/) - Python framework for processing seismological data. ![python](assets/python.png)
 - [Pyrocko](https://pyrocko.org) - Open source seismology toolbox and library. ![python](assets/python.png)
 - [SeisGo](https://github.com/xtyangpsp/SeisGo) - Ready-to-go Python toolbox for seismic data analysis. ![python](assets/python.png)
+- [SeisKit.jl](https://github.com/JuliaEarth/SeisKit.jl) - Fast IO operations with SEG-Y files and other basic utilities for working with seismic data. ![julia](assets/julia.png)
 - [Seismic Unix](https://github.com/JohnWStockwellJr/SeisUnix) - Seismic processing, research, and educational software package.
 - [Seis.jl](https://github.com/anowacki/Seis.jl) - Open, fast and flexible framework for analysing seismic data in Julia. ![julia](assets/julia.png)
-- [SeisKit.jl](https://github.com/JuliaEarth/SeisKit.jl) - Fast IO operations with SEG-Y files and other basic utilities for working with seismic data. ![julia](assets/julia.png)
 
 ## Seismic interferometry and ambient noise
 
