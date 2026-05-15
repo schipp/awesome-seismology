@@ -111,6 +111,7 @@ ocean bottom seismometers. ![python](assets/python.png)
 - [EarthScope](https://ds.iris.edu/ds/nodes/dmc/data/) (formerly IRIS) - Waveform and event data access, US based.
 - [EIDA (ORFEUS)](https://orfeus-eu.org/data/eida/) - Waveform and event data access, EU based.
 - [FDSN network codes](https://www.fdsn.org/networks/) - List of all seismic network codes assigned by the FDSN.
+- [PyWEED](https://github.com/iris-edu/pyweed) - an application for retrieving event-based seismic data. ![python](assets/python.png)
 - [STEAD](https://github.com/smousavi05/STEAD) - STanford EArthquake Dataset (STEAD):A Global Data Set of Seismic Signals for AI.
 
 ## Seismic data handling
