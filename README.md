@@ -127,6 +127,7 @@ ocean bottom seismometers. ![python](assets/python.png)
 
 ## Seismic hazard
 
+- [OpenQuake Engine](https://github.com/gem/oq-engine) - Open source software that provides calculation and assessment of seismic hazard, risk and decision-making tools. ![python](assets/python.png)
 - [strata](https://github.com/arkottke/strata) & [pystrata](https://github.com/arkottke/pystrata) - Site response program featuring simulated profiles, random vibration theory, and a graphical user interface. ![cpp](assets/cpp.png) ![python](assets/python.png)
 
 ## Seismic interferometry and ambient noise
