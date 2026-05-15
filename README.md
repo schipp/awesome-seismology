@@ -73,6 +73,7 @@ Earthquakes, Earth's structure, and related methodology.
 ## Machine learning
 
 - [DeepDenoiser](https://github.com/AI4EPS/DeepDenoiser) - Seismic signal denoising and decomposition using deep neural networks. ![python](assets/python.png)
+- [EQS-Denoiser](https://github.com/niko-d/EarthquakeSeismogramDenoiser) - Earthquake seismogram denoiser. ![python](assets/python.png)
 - [SeisBench](https://github.com/seisbench/seisbench) - Python toolbox for machine learning in seismology. ![python](assets/python.png)
 - [scatseisnet](https://github.com/scatseisnet/scatseisnet) - Transform time series into scattering coefficients with a scattering network. ![python](assets/python.png)
 
