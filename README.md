@@ -17,6 +17,7 @@ Earthquakes, Earth's structure, and related methodology.
 - [Raytracing](#raytracing)
 - [Seismic data access](#seismic-data-access)
 - [Seismic data handling](#seismic-data-handling)
+- [Seismic hazard](#seismic-hazard)
 - [Seismic interferometry and ambient noise](#seismic-interferometry-and-ambient-noise)
 - [Source parameter estimation](#source-parameter-estimation)
 - [Synthetic seismograms](#synthetic-seismograms)
@@ -123,6 +124,10 @@ ocean bottom seismometers. ![python](assets/python.png)
 - [Seismic Unix](https://github.com/JohnWStockwellJr/SeisUnix) - Seismic processing, research, and educational software package.
 - [Seis.jl](https://github.com/anowacki/Seis.jl) - Open, fast and flexible framework for analysing seismic data in Julia. ![julia](assets/julia.png)
 - [Yasmine](https://github.com/iris-edu/yasmine-stationxml-editor) - Yet Another Station Metadata INformation Editor to create and edit geophysical station metadata information in FDSN stationXML format.
+
+## Seismic hazard
+
+- [strata](https://github.com/arkottke/strata) & [pystrata](https://github.com/arkottke/pystrata) - Site response program featuring simulated profiles, random vibration theory, and a graphical user interface. ![cpp](assets/cpp.png) ![python](assets/python.png)
 
 ## Seismic interferometry and ambient noise
 
