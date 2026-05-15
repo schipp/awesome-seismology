@@ -78,7 +78,7 @@ Earthquakes, Earth's structure, and related methodology.
 ## Marine seismology
 
 - [obsinfo](https://gitlab.com/resif/smm/obsinfo) - a system for creating FDSN-standard data and metadata for
-ocean bottom seismometers
+ocean bottom seismometers. ![python](assets/python.png)
 - [OBSTools](https://github.com/nfsi-canada/OBStools) - Processing broadband ocean-bottom seismic data. ![python](assets/python.png)
 - [OCloC (OBS Clock Correction)](https://ocloc.readthedocs.io/en/latest/index.html) - Detect and correct timing errors when using passive seismic records. ![python](assets/python.png)
 
