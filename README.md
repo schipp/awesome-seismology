@@ -12,7 +12,7 @@ Earthquakes, Earth's structure, and related methodology.
 - [Inversion \& Inference](#inversion--inference)
 - [Machine learning](#machine-learning)
 - [Marine seismology](#marine-seismology)
-- [Observatory operation](#observatory-operation)
+- [Observatory software](#observatory-software)
 - [Phase picking and association](#phase-picking-and-association)
 - [Raytracing](#raytracing)
 - [Seismic data access](#seismic-data-access)
