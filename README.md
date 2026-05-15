@@ -84,7 +84,7 @@ ocean bottom seismometers. ![python](assets/python.png)
 - [OBSTools](https://github.com/nfsi-canada/OBStools) - Processing broadband ocean-bottom seismic data. ![python](assets/python.png)
 - [OCloC (OBS Clock Correction)](https://ocloc.readthedocs.io/en/latest/index.html) - Detect and correct timing errors when using passive seismic records. ![python](assets/python.png)
 
-## Observatory operation
+## Observatory software
 
 - [Antelope](https://brtt.com) - Real time Earth monitoring for a dynamic world.
 - [Earthworm](https://gitlab.com/seismic-software/earthworm/) - Waveform and automatic earthquake processing software. ![c](assets/c.png)
