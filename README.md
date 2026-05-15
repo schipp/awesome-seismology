@@ -80,7 +80,7 @@ Earthquakes, Earth's structure, and related methodology.
 
 ## Marine seismology
 
-- [obsinfo](https://gitlab.com/resif/smm/obsinfo) - a system for creating FDSN-standard data and metadata for
+- [obsinfo](https://gitlab.com/resif/smm/obsinfo) - A system for creating FDSN-standard data and metadata for
 ocean bottom seismometers. ![python](assets/python.png)
 - [OBSTools](https://github.com/nfsi-canada/OBStools) - Processing broadband ocean-bottom seismic data. ![python](assets/python.png)
 - [OCloC (OBS Clock Correction)](https://ocloc.readthedocs.io/en/latest/index.html) - Detect and correct timing errors when using passive seismic records. ![python](assets/python.png)
@@ -112,7 +112,7 @@ ocean bottom seismometers. ![python](assets/python.png)
 - [EarthScope](https://ds.iris.edu/ds/nodes/dmc/data/) (formerly IRIS) - Waveform and event data access, US based.
 - [EIDA (ORFEUS)](https://orfeus-eu.org/data/eida/) - Waveform and event data access, EU based.
 - [FDSN network codes](https://www.fdsn.org/networks/) - List of all seismic network codes assigned by the FDSN.
-- [PyWEED](https://github.com/iris-edu/pyweed) - an application for retrieving event-based seismic data. ![python](assets/python.png)
+- [PyWEED](https://github.com/iris-edu/pyweed) - An application for retrieving event-based seismic data. ![python](assets/python.png)
 - [STEAD](https://github.com/smousavi05/STEAD) - STanford EArthquake Dataset (STEAD):A Global Data Set of Seismic Signals for AI.
 
 ## Seismic data handling
