@@ -60,6 +60,7 @@ Earthquakes, Earth's structure, and related methodology.
 
 ## Imaging
 
+- [FLEXWIN](https://geodynamics.org/resources/flexwin) & [Pyflex](https://github.com/adjtomo/pyflex) - Automates the time-window selection problem for seismologists. ![fortran](assets/fortran.png) ![python](assets/python.png)
 - [MSNoise-Tomo](https://github.com/ThomasLecocq/msnoise-tomo) - Plugin to the MSNoise framework for 2D tomography. ![python](assets/python.png)
 - [Pyatoa](https://github.com/adjtomo/pyatoa) - Python's Adjoint Tomography Operations Assistant. ![python](assets/python.png)
 - [PyGLImER](https://github.com/PyGLImER/PyGLImER) - Workflow to create a global database for Ps and Sp receiver function imaging. ![python](assets/python.png)
