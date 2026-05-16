@@ -62,6 +62,7 @@ Earthquakes, Earth's structure, and related methodology.
 
 - [MSNoise-Tomo](https://github.com/ThomasLecocq/msnoise-tomo) - Plugin to the MSNoise framework for 2D tomography. ![python](assets/python.png)
 - [PyGLImER](https://github.com/PyGLImER/PyGLImER) - Workflow to create a global database for Ps and Sp receiver function imaging. ![python](assets/python.png)
+- [SeisFlows](https://github.com/adjtomo/seisflows) - Waveform inversion package that tackles the problems of seismic wavefield simulation, full waveform inversion, seismic migration, and adjoint tomography. ![python](assets/python.png)
 - [SeisLib](https://github.com/fmagrini/seislib) - Python package that allows for obtaining seismic images of the sub-surface. ![python](assets/python.png)
 - [swspy](https://github.com/TomSHudson/swspy/) - Python package for performing shear wave splitting in an automated manner. ![python](assets/python.png)
 
