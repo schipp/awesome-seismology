@@ -155,7 +155,7 @@ ocean bottom seismometers. ![python](assets/python.png)
 - [HypoDD](https://www.ldeo.columbia.edu/~felixw/hypoDD.html) - Double-difference earthquake location algorithm ![fortran](assets/fortran.png)
 - [NonLinLoc](https://github.com/alomax/NonLinLoc) - Non-Linear earthquake localization. ![c](assets/c.png)
 - [QuakeMigrate](https://github.com/QuakeMigrate/QuakeMigrate) - Python package for automatic earthquake detection and location using waveform migration and stacking. ![python](assets/python.png)
-- [Qseek](https://github.com/pyrocko/qseek) - Data-driven earthquake detection, localisation and characterisation in large data sets. ![python](assets/python.png) ![c](assets/c.png)
+- [Qseek](https://github.com/pyrocko/qseek) - Data-driven earthquake detection, localisation and characterisation in large data sets. ![python](assets/python.png)
 - [Simul2023](https://zenodo.org/records/10695070) - Inversion of earthquake data for 3-D velocity and hypocenters or 3-D Q. ![fortran](assets/fortran.png)
 - [SKHASH](https://code.usgs.gov/esc/SKHASH) - Earthquake focal mechanism inversions. ![python](assets/python.png)
 
