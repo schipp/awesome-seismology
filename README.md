@@ -118,6 +118,7 @@ ocean bottom seismometers. ![python](assets/python.png)
 - [FDSN network codes](https://www.fdsn.org/networks/) - List of all seismic network codes assigned by the FDSN.
 - [PyWEED](https://github.com/iris-edu/pyweed) - An application for retrieving event-based seismic data. ![python](assets/python.png)
 - [STEAD](https://github.com/smousavi05/STEAD) - STanford EArthquake Dataset (STEAD):A Global Data Set of Seismic Signals for AI.
+- [Türkiye Deprem Verisi](https://github.com/Ayberkrk/turkiye-deprem-verisi) - Turkey-specific earthquake catalogue and waveform dataset: 84k deduplicated events (USGS+EMSC+ISC) and 5.4k real strong-motion/broadband records with engineering features (PGA/PGV/Sa/Arias/CAV), site classification (Vs30), and ML-ready benchmark splits.
 
 ## Seismic data handling
 
