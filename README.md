@@ -6,21 +6,23 @@ Earthquakes, Earth's structure, and related methodology.
 
 - [Array seismology](#array-seismology)
 - [Earthquake bulletins/catalogues](#earthquake-bulletinscatalogues)
+- [Earthquake detection and location](#earthquake-detection-and-location)
 - [Educational resources](#educational-resources)
+- [Fault mechanics and rupture dynamics](#fault-mechanics-and-rupture-dynamics)
 - [Fibre optic sensing](#fibre-optic-sensing)
 - [Imaging](#imaging)
-- [Interdisciplinary Resources](#interdisciplinary-resources)
-- [Inversion \& Inference](#inversion--inference)
+- [Interdisciplinary resources](#interdisciplinary-resources)
+- [Inversion \& inference](#inversion--inference)
 - [Machine learning](#machine-learning)
 - [Marine seismology](#marine-seismology)
 - [Observatory software](#observatory-software)
-- [Phase picking and association](#phase-picking-and-association)
 - [Raytracing](#raytracing)
 - [Seismic data access](#seismic-data-access)
 - [Seismic data handling](#seismic-data-handling)
 - [Seismic hazard](#seismic-hazard)
 - [Seismic interferometry and ambient noise](#seismic-interferometry-and-ambient-noise)
 - [Source parameter estimation](#source-parameter-estimation)
+- [Statistical seismology](#statistical-seismology)
 - [Synthetic seismograms](#synthetic-seismograms)
 
 ## Array seismology
@@ -46,9 +48,29 @@ Earthquakes, Earth's structure, and related methodology.
 - [SED](http://www.seismo.ethz.ch/en/home/) - Bulletin of the Swiss Seismological Service, Switzerland.
 - [USGS](https://earthquake.usgs.gov/earthquakes/map/) - Bulletin of the US Geological Survey, USA.
 
+## Earthquake detection and location
+
+- [EQTransformer](https://github.com/smousavi05/EQTransformer) - AI-based earthquake signal detector and phase picker. ![python](assets/python.png)
+- [PhaseNet](https://github.com/AI4EPS/PhaseNet) - Deep-neural-network-based seismic arrival time picking method. ![python](assets/python.png)
+- [OBSTransformer](https://github.com/alirezaniki/OBSTransformer) - A Deep Learning Seismic Phase Picker for OBS Data. ![python](assets/python.png)
+- [GaMMA](https://github.com/AI4EPS/GaMMA) - Gaussian Mixture Model Associator. ![python](assets/python.png)
+- [PyOcto](https://github.com/yetinam/pyocto) - High-throughput seismic phase associator. ![python](assets/python.png)
+- [QuakeMigrate](https://github.com/QuakeMigrate/QuakeMigrate) - Python package for automatic earthquake detection and location using waveform migration and stacking. ![python](assets/python.png)
+- [BPMF](https://github.com/ebeauce/Seismic_BPMF) - Earthquake detection and location with GPU-accelerated processing. ![python](assets/python.png)
+- [Qseek](https://github.com/pyrocko/qseek) - Data-driven earthquake detection, localisation and characterisation in large data sets. ![python](assets/python.png)
+- [NonLinLoc](https://github.com/alomax/NonLinLoc) - Non-Linear earthquake localization. ![c](assets/c.png)
+- [GrowClust3D](https://github.com/dttrugman/GrowClust3D.jl) - Relative relocation of earthquake hypocenters based on waveform cross-correlation data. ![julia](assets/julia.png)
+- [HypoDD](https://www.ldeo.columbia.edu/~felixw/hypoDD.html) - Double-difference earthquake location algorithm ![fortran](assets/fortran.png)
+- [Simul2023](https://zenodo.org/records/10695070) - Inversion of earthquake data for 3-D velocity and hypocenters or 3-D Q. ![fortran](assets/fortran.png)
+
 ## Educational resources
 
 - [seismo-live](https://seismo-live.github.io) - Live jupyter notebooks for seismology. ![python](assets/python.png)
+
+## Fault mechanics and rupture dynamics
+
+- [PyQuake3D](https://github.com/Computational-Geophysics/PyQuake3D) - A Python tool for 3-D earthquake sequence simulations of seismic and aseismic slip. ![python](assets/python.png)
+- [SeisSol](https://seissol.org) - Software package for simulating wave propagation and dynamic rupture. ![cpp](assets/cpp.png)
 
 ## Fibre optic sensing
 
@@ -74,7 +96,7 @@ Earthquakes, Earth's structure, and related methodology.
 - [EPOS Platform](https://www.ics-c.epos-eu.org) - A multi-disciplinary open platform for integrated access
 to Solid Earth science datasets.
 
-## Inversion & Inference
+## Inversion & inference
 
 - [BayesBay](https://github.com/fmagrini/bayes-bay) - Generalised trans-dimensional and hierarchical Bayesian inference. ![python](assets/python.png)
 - [GeoBED](https://github.com/dominik-strutz/GeoBED) - Optimal experimental design tailored to geoscientific applications. ![python](assets/python.png)
@@ -100,14 +122,6 @@ ocean bottom seismometers. ![python](assets/python.png)
 - [Earthworm](https://gitlab.com/seismic-software/earthworm/) - Waveform and automatic earthquake processing software. ![c](assets/c.png)
 - [SEISAN](https://seisan.info) - Earthquake analysis software. ![fortran](assets/fortran.png)
 - [SeisComP](https://www.seiscomp.de) - Seismological software for data acquisition, processing, distribution and interactive analysis. ![cpp](assets/cpp.png)
-
-## Phase picking and association
-
-- [EQTransformer](https://github.com/smousavi05/EQTransformer) - AI-based earthquake signal detector and phase picker. ![python](assets/python.png)
-- [GaMMA](https://github.com/AI4EPS/GaMMA) - Gaussian Mixture Model Associator. ![python](assets/python.png)
-- [OBSTransformer](https://github.com/alirezaniki/OBSTransformer) - A Deep Learning Seismic Phase Picker for OBS Data. ![python](assets/python.png)
-- [PhaseNet](https://github.com/AI4EPS/PhaseNet) - Deep-neural-network-based seismic arrival time picking method. ![python](assets/python.png)
-- [PyOcto](https://github.com/yetinam/pyocto) - High-throughput seismic phase associator. ![python](assets/python.png)
 
 ## Raytracing
 
@@ -156,16 +170,12 @@ ocean bottom seismometers. ![python](assets/python.png)
 
 - [Grond (pyrocko)](https://pyrocko.org/grond) - Probabilistic source optimization. ![python](assets/python.png)
 - [BEAT (pyrocko)](https://pyrocko.org/beat) - Bayesian Earthquake Analysis Tool. ![python](assets/python.png)
-- [BPMF](https://github.com/ebeauce/Seismic_BPMF) - Earthquake detection and location with GPU-accelerated processing. ![python](assets/python.png)
 - [focmec](https://seiscode.iris.washington.edu/projects/focmec) - Package for determining and displaying earthquake focal mechanisms.
-- [GrowClust3D](https://github.com/dttrugman/GrowClust3D.jl) - Relative relocation of earthquake hypocenters based on waveform cross-correlation data. ![julia](assets/julia.png)
-- [HypoDD](https://www.ldeo.columbia.edu/~felixw/hypoDD.html) - Double-difference earthquake location algorithm ![fortran](assets/fortran.png)
-- [NonLinLoc](https://github.com/alomax/NonLinLoc) - Non-Linear earthquake localization. ![c](assets/c.png)
-- [QuakeMigrate](https://github.com/QuakeMigrate/QuakeMigrate) - Python package for automatic earthquake detection and location using waveform migration and stacking. ![python](assets/python.png)
-- [Qseek](https://github.com/pyrocko/qseek) - Data-driven earthquake detection, localisation and characterisation in large data sets. ![python](assets/python.png)
-- [SeismoStats](https://github.com/swiss-seismological-service/SeismoStats) - A Python package for seismicity analysis. ![python](assets/python.png)
-- [Simul2023](https://zenodo.org/records/10695070) - Inversion of earthquake data for 3-D velocity and hypocenters or 3-D Q. ![fortran](assets/fortran.png)
 - [SKHASH](https://code.usgs.gov/esc/SKHASH) - Earthquake focal mechanism inversions. ![python](assets/python.png)
+
+## Statistical seismology
+
+- [SeismoStats](https://github.com/swiss-seismological-service/SeismoStats) - A Python package for seismicity analysis. ![python](assets/python.png)
 
 ## Synthetic seismograms
 
@@ -179,6 +189,5 @@ ocean bottom seismometers. ![python](assets/python.png)
 - [instaseis](https://instaseis.net) - Instant global seismograms based on a broadband waveform database. ![python](assets/python.png)
 - [Mineos](https://github.com/geodynamics/mineos) - Compute synthetic seismograms in a spherically symmetric non-rotating Earth by summing normal modes. ![fortran](assets/fortran.png)
 - [PyFK](https://github.com/ziyixi/pyfk) - Python port of FK used to calculate the Green's function and the synthetic waveforms for the 1D Earth model. ![python](assets/python.png)
-- [SeisSol](https://seissol.org) - Software package for simulating wave propagation and dynamic rupture. ![cpp](assets/cpp.png)
 - [SPECFEM](https://specfem.org) - Open-source spectral-element method software codes for computational seismology. ![fortran](assets/fortran.png) ![c](assets/c.png)
 - [SW4](https://github.com/geodynamics/sw4) - Seismic waves, 4th order accuracy. ![fortran](assets/fortran.png) ![cpp](assets/cpp.png)
