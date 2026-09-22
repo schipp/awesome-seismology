@@ -62,6 +62,7 @@ Earthquakes, Earth's structure, and related methodology.
 - [GrowClust3D](https://github.com/dttrugman/GrowClust3D.jl) - Relative relocation of earthquake hypocenters based on waveform cross-correlation data. ![julia](assets/julia.png)
 - [HypoDD](https://www.ldeo.columbia.edu/~felixw/hypoDD.html) - Double-difference earthquake location algorithm ![fortran](assets/fortran.png)
 - [Simul2023](https://zenodo.org/records/10695070) - Inversion of earthquake data for 3-D velocity and hypocenters or 3-D Q. ![fortran](assets/fortran.png)
+- [VELEST](https://seg.ethz.ch/software/velest.html) & [PyVelest](https://github.com/saeedsltm/PyVelest) - Simultaneous inversion of earthquake hypocenters and a minimum 1D velocity model. ![fortran](assets/fortran.png) ![python](assets/python.png)
 
 ## Educational resources
 
