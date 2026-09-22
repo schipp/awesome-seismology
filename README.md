@@ -144,6 +144,7 @@ ocean bottom seismometers. ![python](assets/python.png)
 
 - [ObsPy](https://github.com/obspy/obspy/wiki/) - Python framework for processing seismological data. ![python](assets/python.png)
 - [Pyrocko](https://pyrocko.org) - Open source seismology toolbox and library. ![python](assets/python.png)
+- [SAC](https://ds.iris.edu/ds/nodes/dmc/software/downloads/sac/) - The classic interactive waveform analysis program for research seismologists. ![c](assets/c.png)
 - [SeisGo](https://github.com/xtyangpsp/SeisGo) - Ready-to-go Python toolbox for seismic data analysis. ![python](assets/python.png)
 - [SeisKit.jl](https://github.com/JuliaEarth/SeisKit.jl) - Fast IO operations with SEG-Y files and other basic utilities for working with seismic data. ![julia](assets/julia.png)
 - [Seismic Unix](https://github.com/JohnWStockwellJr/SeisUnix) - Seismic processing, research, and educational software package.
