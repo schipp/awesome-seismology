@@ -67,6 +67,7 @@ Earthquakes, Earth's structure, and related methodology.
 
 ## Educational resources
 
+- [EarthScope in class](https://www.iris.edu/hq/inclass) - Classroom activities, visualisations and data-driven lesson plans for teaching seismology.
 - [seismo-live](https://seismo-live.github.io) - Live jupyter notebooks for seismology. ![python](assets/python.png)
 
 ## Fault mechanics and rupture dynamics
