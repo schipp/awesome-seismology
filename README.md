@@ -9,6 +9,7 @@ Earthquakes, Earth's structure, and related methodology.
 - [Educational resources](#educational-resources)
 - [Fibre optic sensing](#fibre-optic-sensing)
 - [Imaging](#imaging)
+- [Interdisciplinary Resources](#interdisciplinary-resources)
 - [Inversion \& Inference](#inversion--inference)
 - [Machine learning](#machine-learning)
 - [Marine seismology](#marine-seismology)
@@ -67,6 +68,11 @@ Earthquakes, Earth's structure, and related methodology.
 - [SeisFlows](https://github.com/adjtomo/seisflows) - Waveform inversion package that tackles the problems of seismic wavefield simulation, full waveform inversion, seismic migration, and adjoint tomography. ![python](assets/python.png)
 - [SeisLib](https://github.com/fmagrini/seislib) - Python package that allows for obtaining seismic images of the sub-surface. ![python](assets/python.png)
 - [swspy](https://github.com/TomSHudson/swspy/) - Python package for performing shear wave splitting in an automated manner. ![python](assets/python.png)
+
+## Interdisciplinary Resources
+
+- [EPOS Platform](https://www.ics-c.epos-eu.org) - A multi-disciplinary open platform for integrated access
+to Solid Earth science datasets.
 
 ## Inversion & Inference
 
