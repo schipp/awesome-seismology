@@ -69,7 +69,7 @@ Earthquakes, Earth's structure, and related methodology.
 - [SeisLib](https://github.com/fmagrini/seislib) - Python package that allows for obtaining seismic images of the sub-surface. ![python](assets/python.png)
 - [swspy](https://github.com/TomSHudson/swspy/) - Python package for performing shear wave splitting in an automated manner. ![python](assets/python.png)
 
-## Interdisciplinary Resources
+## Interdisciplinary resources
 
 - [EPOS Platform](https://www.ics-c.epos-eu.org) - A multi-disciplinary open platform for integrated access
 to Solid Earth science datasets.
