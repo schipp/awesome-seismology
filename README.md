@@ -133,6 +133,7 @@ ocean bottom seismometers. ![python](assets/python.png)
 - [SeisKit.jl](https://github.com/JuliaEarth/SeisKit.jl) - Fast IO operations with SEG-Y files and other basic utilities for working with seismic data. ![julia](assets/julia.png)
 - [Seismic Unix](https://github.com/JohnWStockwellJr/SeisUnix) - Seismic processing, research, and educational software package.
 - [Seis.jl](https://github.com/anowacki/Seis.jl) - Open, fast and flexible framework for analysing seismic data in Julia. ![julia](assets/julia.png)
+- [Vectorizing Legacy Seismograms](https://github.com/RDePlaen/VectorizationTools) - Tools & references for handling scanned legacy seismograms.
 - [Yasmine](https://github.com/iris-edu/yasmine-stationxml-editor) - Yet Another Station Metadata INformation Editor to create and edit geophysical station metadata information in FDSN stationXML format.
 
 ## Seismic hazard
