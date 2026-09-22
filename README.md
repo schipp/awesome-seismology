@@ -71,6 +71,7 @@ Earthquakes, Earth's structure, and related methodology.
 ## Fault mechanics and rupture dynamics
 
 - [PyQuake3D](https://github.com/Computational-Geophysics/PyQuake3D) - A Python tool for 3-D earthquake sequence simulations of seismic and aseismic slip. ![python](assets/python.png)
+- [PyLith](https://github.com/geodynamics/pylith) - Finite-element simulations of dynamic and quasi-static crustal deformation, primarily earthquakes and volcanoes. ![c++](assets/cpp.png) ![python](assets/python.png)
 - [QDYN](https://github.com/ydluo-c/qdyn) - A quasi-dynamic earthquake simulator. ![fortran](assets/fortran.png) ![python](assets/python.png) ![matlab](assets/matlab.png)
 - [SeisSol](https://seissol.org) - Software package for simulating wave propagation and dynamic rupture. ![cpp](assets/cpp.png)
 
