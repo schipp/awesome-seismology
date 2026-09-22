@@ -175,6 +175,7 @@ ocean bottom seismometers. ![python](assets/python.png)
 
 ## Statistical seismology
 
+- [pyCSEP](https://github.com/cseptesting/pycsep) - Build and evaluate their earthquake forecasts. ![python](assets/python.png)
 - [SeismoStats](https://github.com/swiss-seismological-service/SeismoStats) - A Python package for seismicity analysis. ![python](assets/python.png)
 
 ## Synthetic seismograms
