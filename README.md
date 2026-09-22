@@ -107,7 +107,7 @@ ocean bottom seismometers. ![python](assets/python.png)
 
 - [TauP](http://www.seis.sc.edu/taup/) - Seismic travel time calculator. ![java](assets/java.png)
 - [Cake (pyrocko)](https://pyrocko.org/docs/current/apps/cake/) - 1D travel-time and ray-path computations. ![python](assets/python.png)
-- [eikonalfm](https://github.com/kevinganster/eikonalfm) - Factorised Fast Marching Method in 2D and 3D for Python. ![python](assets/python.png) 
+- [eikonalfm](https://github.com/kevinganster/eikonalfm) - Factorised Fast Marching Method in 2D and 3D for Python. ![python](assets/python.png)
 - [scikit-fmm](https://github.com/scikit-fmm/scikit-fmm) - Fast Marching Method for Python. ![python](assets/python.png)
 - [pykonal](https://github.com/malcolmw/pykonal) - Fast Marching Method in cartesian or spherical coordinates in 2 or 3 dimensions. ![python](assets/python.png)
 
@@ -156,6 +156,7 @@ ocean bottom seismometers. ![python](assets/python.png)
 - [NonLinLoc](https://github.com/alomax/NonLinLoc) - Non-Linear earthquake localization. ![c](assets/c.png)
 - [QuakeMigrate](https://github.com/QuakeMigrate/QuakeMigrate) - Python package for automatic earthquake detection and location using waveform migration and stacking. ![python](assets/python.png)
 - [Qseek](https://github.com/pyrocko/qseek) - Data-driven earthquake detection, localisation and characterisation in large data sets. ![python](assets/python.png)
+- [SeismoStats](https://github.com/swiss-seismological-service/SeismoStats) - A Python package for seismicity analysis. ![python](assets/python.png)
 - [Simul2023](https://zenodo.org/records/10695070) - Inversion of earthquake data for 3-D velocity and hypocenters or 3-D Q. ![fortran](assets/fortran.png)
 - [SKHASH](https://code.usgs.gov/esc/SKHASH) - Earthquake focal mechanism inversions. ![python](assets/python.png)
 
