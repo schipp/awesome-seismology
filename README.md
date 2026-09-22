@@ -58,6 +58,7 @@ Earthquakes, Earth's structure, and related methodology.
 - [QuakeMigrate](https://github.com/QuakeMigrate/QuakeMigrate) - Python package for automatic earthquake detection and location using waveform migration and stacking. ![python](assets/python.png)
 - [BPMF](https://github.com/ebeauce/Seismic_BPMF) - Earthquake detection and location with GPU-accelerated processing. ![python](assets/python.png)
 - [Qseek](https://github.com/pyrocko/qseek) - Data-driven earthquake detection, localisation and characterisation in large data sets. ![python](assets/python.png)
+- [EQcorrscan](https://github.com/eqcorrscan/EQcorrscan) - Template matching and repeated-earthquake detection. ![python](assets/python.png)
 - [NonLinLoc](https://github.com/alomax/NonLinLoc) - Non-Linear earthquake localization. ![c](assets/c.png)
 - [GrowClust3D](https://github.com/dttrugman/GrowClust3D.jl) - Relative relocation of earthquake hypocenters based on waveform cross-correlation data. ![julia](assets/julia.png)
 - [HypoDD](https://www.ldeo.columbia.edu/~felixw/hypoDD.html) - Double-difference earthquake location algorithm ![fortran](assets/fortran.png)
