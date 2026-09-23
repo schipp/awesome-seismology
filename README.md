@@ -42,6 +42,7 @@ Earthquakes, Earth's structure, and related methodology.
 - [GEOFON](https://geofon.gfz-potsdam.de) - Bulletin of the GeoForschungsZentrum Potsdam, Germany.
 - [Geosphere Austria](https://beta.geosphere.at/de/karten/aktuelle-erdbeben#tab=tablemode) - Bulletin of the Geosphere Austria.
 - [Global CMT](https://www.globalcmt.org) - Bulletin of the Global Centroid-Moment-Tensor (CMT) Project.
+- [CSN](https://www.csn.uchile.cl/sismologia/) - Bulletin of the Centro Sismológico Nacional, Universidad de Chile.
 - [IGN](https://www.ign.es/web/en/ign/portal/sis-catalogo-terremotos) - Bulletin of the Instituto Geografico Nacional, Spain.
 - [INGV](https://www.ingv.it/en/resources-and-services/environment-earthquakes-and-volcanoes/newsletters) - Bulletin of the Instituto Nazionale Di Geofisicia e Vulcanologia, Italy.
 - [ISC](https://www.isc.ac.uk/iscbulletin/) - Bulletin of the International Seismological Centre, UK.
