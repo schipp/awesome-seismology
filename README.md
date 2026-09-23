@@ -41,6 +41,7 @@ Earthquakes, Earth's structure, and related methodology.
 - [EMSC](https://emsc-csem.org) - Bulletin of the Euro-Mediterranean Seismological Centre.
 - [GEOFON](https://geofon.gfz-potsdam.de) - Bulletin of the GeoForschungsZentrum Potsdam, Germany.
 - [Geosphere Austria](https://beta.geosphere.at/de/karten/aktuelle-erdbeben#tab=tablemode) - Bulletin of the Geosphere Austria.
+- [GeoNet](https://www.geonet.org.nz/earthquake) - Bulletin of GeoNet, New Zealand.
 - [Global CMT](https://www.globalcmt.org) - Bulletin of the Global Centroid-Moment-Tensor (CMT) Project.
 - [CSN](https://www.csn.uchile.cl/sismologia/) - Bulletin of the Centro Sismológico Nacional, Universidad de Chile.
 - [IGN](https://www.ign.es/web/en/ign/portal/sis-catalogo-terremotos) - Bulletin of the Instituto Geografico Nacional, Spain.
