@@ -41,6 +41,7 @@ Earthquakes, Earth's structure, and related methodology.
 - [Earthquakes Canada](https://earthquakescanada.nrcan.gc.ca/recent/index-en.php) - Bulletin of the Geological Survey of Canada, Canada.
 - [EMSC](https://emsc-csem.org) - Bulletin of the Euro-Mediterranean Seismological Centre.
 - [GEOFON](https://geofon.gfz-potsdam.de) - Bulletin of the GeoForschungsZentrum Potsdam, Germany.
+- [Geoscience Australia](https://earthquakes.ga.gov.au) - Bulletin of Geoscience Australia, Australia.
 - [Geosphere Austria](https://beta.geosphere.at/de/karten/aktuelle-erdbeben#tab=tablemode) - Bulletin of the Geosphere Austria.
 - [GeoNet](https://www.geonet.org.nz/earthquake) - Bulletin of GeoNet, New Zealand.
 - [Global CMT](https://www.globalcmt.org) - Bulletin of the Global Centroid-Moment-Tensor (CMT) Project.
