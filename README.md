@@ -46,6 +46,7 @@ Earthquakes, Earth's structure, and related methodology.
 - [GeoNet](https://www.geonet.org.nz/earthquake) - Bulletin of GeoNet, New Zealand.
 - [Global CMT](https://www.globalcmt.org) - Bulletin of the Global Centroid-Moment-Tensor (CMT) Project.
 - [CSN](https://www.csn.uchile.cl/sismologia/) - Bulletin of the Centro Sismológico Nacional, Universidad de Chile.
+- [CWA](https://scweb.cwa.gov.tw/en-us/earthquake/data) - Bulletin of the Central Weather Administration Seismological Center, Taiwan.
 - [IGN](https://www.ign.es/web/en/ign/portal/sis-catalogo-terremotos) - Bulletin of the Instituto Geografico Nacional, Spain.
 - [INGV](https://www.ingv.it/en/resources-and-services/environment-earthquakes-and-volcanoes/newsletters) - Bulletin of the Instituto Nazionale Di Geofisicia e Vulcanologia, Italy.
 - [ISC](https://www.isc.ac.uk/iscbulletin/) - Bulletin of the International Seismological Centre, UK.
