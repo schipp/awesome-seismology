@@ -53,6 +53,7 @@ Earthquakes, Earth's structure, and related methodology.
 - [JMA](https://www.data.jma.go.jp/multi/quake/index.html?lang=en) - Bulletin of the Japan Meteorological Agency, Japan.
 - [KOERI](http://www.koeri.boun.edu.tr/scripts/lst0.asp) - Bulletin of the Kandilli Observatory and Earthquake Research Institute, Boğaziçi University, Türkiye.
 - [NCEDC](https://ncedc.org/ncedc/catalog-search.html) - Bulletin of the Northern California Earthquake Data Center, USA.
+- [NOAA NCEI](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/search) - Significant earthquake catalogue of the National Centers for Environmental Information, USA.
 - [ROB](http://seismology.be/en) - Bulletin of the Royal Observatory of Belgium.
 - [SED](http://www.seismo.ethz.ch/en/home/) - Bulletin of the Swiss Seismological Service, Switzerland.
 - [USGS](https://earthquake.usgs.gov/earthquakes/map/) - Bulletin of the US Geological Survey, USA.
