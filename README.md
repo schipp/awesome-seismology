@@ -48,6 +48,7 @@ Earthquakes, Earth's structure, and related methodology.
 - [CSN](https://www.csn.uchile.cl/sismologia/) - Bulletin of the Centro Sismológico Nacional, Universidad de Chile.
 - [CWA](https://scweb.cwa.gov.tw/en-us/earthquake/data) - Bulletin of the Central Weather Administration Seismological Center, Taiwan.
 - [IGN](https://www.ign.es/web/en/ign/portal/sis-catalogo-terremotos) - Bulletin of the Instituto Geografico Nacional, Spain.
+- [IMO](https://en.vedur.is/earthquakes-and-volcanism/earthquakes/) - Bulletin of the Icelandic Met Office, Iceland.
 - [INGV](https://www.ingv.it/en/resources-and-services/environment-earthquakes-and-volcanoes/newsletters) - Bulletin of the Instituto Nazionale Di Geofisicia e Vulcanologia, Italy.
 - [ISC](https://www.isc.ac.uk/iscbulletin/) - Bulletin of the International Seismological Centre, UK.
 - [ISC-EHB](https://www.isc.ac.uk/isc-ehb/) - Relocated subset of the ISC Bulletin using the EHB algorithm, the reference for global seismicity studies.
