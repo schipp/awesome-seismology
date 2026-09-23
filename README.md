@@ -49,6 +49,7 @@ Earthquakes, Earth's structure, and related methodology.
 - [ISC](https://www.isc.ac.uk/iscbulletin/) - Bulletin of the International Seismological Centre, UK.
 - [ISC-EHB](https://www.isc.ac.uk/isc-ehb/) - Relocated subset of the ISC Bulletin using the EHB algorithm, the reference for global seismicity studies.
 - [JMA](https://www.data.jma.go.jp/multi/quake/index.html?lang=en) - Bulletin of the Japan Meteorological Agency, Japan.
+- [KOERI](http://www.koeri.boun.edu.tr/scripts/lst0.asp) - Bulletin of the Kandilli Observatory and Earthquake Research Institute, Boğaziçi University, Türkiye.
 - [ROB](http://seismology.be/en) - Bulletin of the Royal Observatory of Belgium.
 - [SED](http://www.seismo.ethz.ch/en/home/) - Bulletin of the Swiss Seismological Service, Switzerland.
 - [USGS](https://earthquake.usgs.gov/earthquakes/map/) - Bulletin of the US Geological Survey, USA.
