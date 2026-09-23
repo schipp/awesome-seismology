@@ -47,6 +47,7 @@ Earthquakes, Earth's structure, and related methodology.
 - [IGN](https://www.ign.es/web/en/ign/portal/sis-catalogo-terremotos) - Bulletin of the Instituto Geografico Nacional, Spain.
 - [INGV](https://www.ingv.it/en/resources-and-services/environment-earthquakes-and-volcanoes/newsletters) - Bulletin of the Instituto Nazionale Di Geofisicia e Vulcanologia, Italy.
 - [ISC](https://www.isc.ac.uk/iscbulletin/) - Bulletin of the International Seismological Centre, UK.
+- [ISC-EHB](https://www.isc.ac.uk/isc-ehb/) - Relocated subset of the ISC Bulletin using the EHB algorithm, the reference for global seismicity studies.
 - [ROB](http://seismology.be/en) - Bulletin of the Royal Observatory of Belgium.
 - [SED](http://www.seismo.ethz.ch/en/home/) - Bulletin of the Swiss Seismological Service, Switzerland.
 - [USGS](https://earthquake.usgs.gov/earthquakes/map/) - Bulletin of the US Geological Survey, USA.
