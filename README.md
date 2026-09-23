@@ -38,15 +38,15 @@ Earthquakes, Earth's structure, and related methodology.
 
 - [AFAD](https://deprem.afad.gov.tr/last-earthquakes?lang=1) - Bulletin of the Disaster and Emergency Management Authority, Türkiye.
 - [BGR](https://www.szgrf.bgr.de) - Bulletin of the Federal Institute for Geosciences and Natural Resources, Germany.
+- [CSN](https://www.csn.uchile.cl/sismologia/) - Bulletin of the Centro Sismológico Nacional, Universidad de Chile.
+- [CWA](https://scweb.cwa.gov.tw/en-us/earthquake/data) - Bulletin of the Central Weather Administration Seismological Center, Taiwan.
 - [Earthquakes Canada](https://earthquakescanada.nrcan.gc.ca/recent/index-en.php) - Bulletin of the Geological Survey of Canada, Canada.
 - [EMSC](https://emsc-csem.org) - Bulletin of the Euro-Mediterranean Seismological Centre.
 - [GEOFON](https://geofon.gfz-potsdam.de) - Bulletin of the GeoForschungsZentrum Potsdam, Germany.
+- [GeoNet](https://www.geonet.org.nz/earthquake) - Bulletin of GeoNet, New Zealand.
 - [Geoscience Australia](https://earthquakes.ga.gov.au) - Bulletin of Geoscience Australia, Australia.
 - [Geosphere Austria](https://beta.geosphere.at/de/karten/aktuelle-erdbeben#tab=tablemode) - Bulletin of the Geosphere Austria.
-- [GeoNet](https://www.geonet.org.nz/earthquake) - Bulletin of GeoNet, New Zealand.
 - [Global CMT](https://www.globalcmt.org) - Bulletin of the Global Centroid-Moment-Tensor (CMT) Project.
-- [CSN](https://www.csn.uchile.cl/sismologia/) - Bulletin of the Centro Sismológico Nacional, Universidad de Chile.
-- [CWA](https://scweb.cwa.gov.tw/en-us/earthquake/data) - Bulletin of the Central Weather Administration Seismological Center, Taiwan.
 - [IGN](https://www.ign.es/web/en/ign/portal/sis-catalogo-terremotos) - Bulletin of the Instituto Geografico Nacional, Spain.
 - [IMO](https://en.vedur.is/earthquakes-and-volcanism/earthquakes/) - Bulletin of the Icelandic Met Office, Iceland.
 - [INGV](https://www.ingv.it/en/resources-and-services/environment-earthquakes-and-volcanoes/newsletters) - Bulletin of the Instituto Nazionale Di Geofisicia e Vulcanologia, Italy.
