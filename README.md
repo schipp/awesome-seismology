@@ -38,6 +38,7 @@ Earthquakes, Earth's structure, and related methodology.
 
 - [AFAD](https://deprem.afad.gov.tr/last-earthquakes?lang=1) - Bulletin of the Disaster and Emergency Management Authority, Türkiye.
 - [BGR](https://www.szgrf.bgr.de) - Bulletin of the Federal Institute for Geosciences and Natural Resources, Germany.
+- [Earthquakes Canada](https://earthquakescanada.nrcan.gc.ca/recent/index-en.php) - Bulletin of the Geological Survey of Canada, Canada.
 - [EMSC](https://emsc-csem.org) - Bulletin of the Euro-Mediterranean Seismological Centre.
 - [GEOFON](https://geofon.gfz-potsdam.de) - Bulletin of the GeoForschungsZentrum Potsdam, Germany.
 - [Geosphere Austria](https://beta.geosphere.at/de/karten/aktuelle-erdbeben#tab=tablemode) - Bulletin of the Geosphere Austria.
