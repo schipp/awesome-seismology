@@ -36,6 +36,7 @@ Earthquakes, Earth's structure, and related methodology.
 
 ## Earthquake bulletins/catalogues
 
+- [AFAD](https://deprem.afad.gov.tr/last-earthquakes?lang=1) - Bulletin of the Disaster and Emergency Management Authority, Türkiye.
 - [BGR](https://www.szgrf.bgr.de) - Bulletin of the Federal Institute for Geosciences and Natural Resources, Germany.
 - [EMSC](https://emsc-csem.org) - Bulletin of the Euro-Mediterranean Seismological Centre.
 - [GEOFON](https://geofon.gfz-potsdam.de) - Bulletin of the GeoForschungsZentrum Potsdam, Germany.
