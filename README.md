@@ -80,6 +80,7 @@ Earthquakes, Earth's structure, and related methodology.
 
 ## Educational resources
 
+- [30 days of M4.5+ earthquakes](https://artigram.cafeboon.com/p/uqtrt5z) - Interactive seismogram, map and energy ladder built from USGS data, showing how one quake carried most of a month of seismic energy.
 - [EarthScope in class](https://www.iris.edu/hq/inclass) - Classroom activities, visualisations and data-driven lesson plans for teaching seismology.
 - [seismo-live](https://seismo-live.github.io) - Live jupyter notebooks for seismology. ![python](assets/python.png)
 
